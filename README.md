@@ -360,14 +360,16 @@ ___
         - (2) Claims will be made in the form of bids and will be processed in stages.
           - (aa) A bid will be defined as a rostered player who was obtained at auction and any number of TCM.
           - (bb) Starting TCM are equal to the number of TCM remaining at the conclusion of the auction draft.
+          - (cc) Bidding Process:
             - (I) The value of a bid will be equal to the TCM value of the rostered player being bid added to the value of TCM included in the bid.
             - (II) All teams will have the opportunity to make a bid on any eligible players in each stage of the the add/drop period. When a stage is complete, the players will be awarded to the team with the highest value bid.
             - (III) If a team submits multiple bids in one stage, those bids will be processed in descending order of value. If there are multiple bids of the same value on different players, those bids will be processed in order of submission. If multiple bids on a single player are received from a single team, only the most recent submission will be considered.
-            - (IV) If two teams have bids of equal value for a single player, the team with the worse season record will obtain the desired player, with tiebreaks being applied as necessary.
-            - (V) If a player should be awarded to a team, TCM will be deducted from the team's total TCM equal to the number of TCM included in their bid and independent of the value of the rostered player used in the bid. The rostered player used in the bid will be eligible for the next stage of the add/drop period.
-            - (VI) Bids will automatically be reduced to never exceed available TCM. In the event of the same rostered player being used in multiple bids, additional bids will be thrown out upon winning a bid using that player.
-            - (VII) A bid with a value of zero TCM on a specific player is valid, so long as it is still accompanied by a player drafted at auction. TCM must be used in whole numbers.
-	      - (3) Add/drops may be denied by the CRC due to availability restrictions or by the individual players receiving call-ups.
+            - (IV) If two teams have bids of equal value for a single player, the team lower in the standings will obtain the desired player, with tiebreaks being applied as necessary.
+            - (V) If teams with tied bids have played an uneven amount of games, the tiebreaker will be based on the percent of standings points acquired in the games that they have played so far.
+            - (VI) If a player should be awarded to a team, TCM will be deducted from the team's total TCM equal to the number of TCM included in their bid and independent of the value of the rostered player used in the bid. The rostered player used in the bid will be eligible for the next stage of the add/drop period.
+            - (VII) Bids will automatically be reduced to never exceed available TCM. In the event of the same rostered player being used in multiple bids, additional bids will be thrown out upon winning a bid using that player.
+            - (VIII) A bid with a value of zero TCM on a specific player is valid, so long as it is still accompanied by a player drafted at auction. TCM must be used in whole numbers.
+	- (3) Add/drops may be denied by the CRC due to availability restrictions or by the individual players receiving call-ups.
     - (c) Add/drop player eligibility:
       - (i) First add/drop period:
         - (1) Add/drop pool:
@@ -395,7 +397,7 @@ ___
       - (i) Regular season:
         - (1) There will be four add/drop periods during the regular season.
           - (aa) The first Minors add/drop period will begin at the conclusion of the draft and conclude 24 hours before the start of the Novice draft or the midnight before week 1 game days, whichever comes first.
-          - (bb) second, third and fourth add/drop periods will begin at the conclusion of default time games after week 1, week 2 and week 3, respectively. These periods will last approximately 48 hours and the CRC will announce when bidding opens and when bidding closes for each period. 
+          - (bb) The second, third and fourth add/drop periods will begin at the conclusion of the corresponding Majors add/drop period or default time games, whichever happens later. These periods will last approximately 48 hours and the CRC will announce when bidding opens and when bidding closes for each period. 
       - (ii) Postseason:
         - (1) There will be no add/drop periods in the postseason.
     - (b) Add/drop process:
