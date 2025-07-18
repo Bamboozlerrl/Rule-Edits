@@ -803,6 +803,7 @@ ___
   - (5) Once a match has started the group leader will launch each game after a captain or majority of both teams indicates they are ready.
     - (a) A team must indicate they are ready within 3 minutes of the previous game, unless a break is requested.
     - (b) A team may only have one break per match, this break may only last up to 5 minutes and the break may be used before any game, including game 1.
+    - (c) If the pick/ban has become the default start of the match, a team must indicate that they are ready to play game 1 withing 3 minutes of the end of the pick/ban.
   - (6) Any team delaying a game by breaking these rules may receive a forfeit, deduction in standing points or capture penalty at the CRC's discretion.
   - (7) If a game must be delayed for a CRC decision there will be no forfeiture due to delays.
 
