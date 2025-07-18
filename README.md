@@ -365,8 +365,8 @@ ___
             - (I) The value of a bid will be equal to the TCM value of the rostered player being bid added to the value of TCM included in the bid.
             - (II) All teams will have the opportunity to make a bid on any eligible players in each stage of the the add/drop period. When a stage is complete, the players will be awarded to the team with the highest value bid.
             - (III) If a team submits multiple bids in one stage, those bids will be processed in descending order of value. If there are multiple bids of the same value on different players, those bids will be processed in order of submission. If multiple bids on a single player are received from a single team, only the most recent submission will be considered.
-            - (IV) If two teams have bids of equal value for a single player, the team lower in the standings will obtain the desired player, with tiebreaks being applied as necessary.
-            - (V) If teams with tied bids have played an uneven amount of games, the tiebreaker will be based on the percent of standings points acquired in the games that they have played so far.
+            - (IV) If multiple teams have bids of equal value for a single player, the team lower in the standings will obtain the desired player, with tiebreaks being applied as necessary.
+            - (V) If multiple teams have bids of equal value for a single player, but also have played an uneven amount of games, the tiebreaker will be based on the percent of standings points acquired in the games that they have played so far.
             - (VI) If a player should be awarded to a team, TCM will be deducted from the team's total TCM equal to the number of TCM included in their bid and independent of the value of the rostered player used in the bid. The rostered player used in the bid will be eligible for the next stage of the add/drop period.
             - (VII) Bids will automatically be reduced to never exceed available TCM. In the event of the same rostered player being used in multiple bids, additional bids will be thrown out upon winning a bid using that player.
             - (VIII) A bid with a value of zero TCM on a specific player is valid, so long as it is still accompanied by a player drafted at auction. TCM must be used in whole numbers.
@@ -402,6 +402,8 @@ ___
         - (1) There will be no add/drop periods in the postseason.
     - (b) Add/drop process:
       - (i) An add/drop will consist of a player on a roster being dropped, followed by a player in a lower league or an unassigned player being called up.
+        - (1) Upon being called up, a player receives official DEP status equal to that awarded in preseason.
+        - (2) Add/drops may be denied by the CRC due to availability restrictions or by the individual players receiving call-ups.
       - (ii) First add/drop period:
         - (1) Add/drops will be processed on a rolling, first come, first served basis.
           - (aa) Add/drops may be submitted to the CRC via direct messages or captains chat with an appropriate ping.
@@ -419,14 +421,15 @@ ___
             - (II) Claims will be made in the form of bids and will be processed in stages.
               - (1) A bid will be defined as a rostered player who was obtained at auction and any number of TCN.
               - (2) Starting TCN are equal to the number of TCN remaining at the conclusion of the auction draft.
+              - (3) Bidding Process:
                 - (AA) The value of a bid will be equal to the TCN value of the rostered player being bid added to the value of TCN included in the bid.
                 - (BB) All teams will have the opportunity to make a bid on any eligible players in each stage of the present phase. When a stage is complete, the players will be awarded to the team with the highest value bid.
                 - (CC) If a team submits multiple bids in one stage, those bids will be processed in descending order of value. If there are multiple bids of the same value on different players, those bids will be processed in order of submission. If multiple bids on a single player are received from a single team, only the most recent submission will be considered.
-                - (DD) If two teams have bids of equal value for a single player, the team with the worse season record will obtain the desired player, with tiebreaks being applied as necessary.
-                - (EE) If a player should be awarded to a team, TCN will be deducted from the team's total TCN equal to the number of TCN included in their bid and independent of the value of the rostered player used in the bid. The rostered player used in the bid will be eligible for the next stage of phase 2.
-                - (FF) Bids will automatically be reduced to never exceed available TCN. In the event of the same rostered player being used in multiple bids, additional bids will be thrown out upon winning a bid using that player.
-                - (GG) A bid with a value of zero TCN on a specific player is valid, so long as it is still accompanied by a player drafted at auction. TCN must be used in whole numbers.
-            - (III) Add/drops may be denied by the CRC due to availability restrictions or by the individual players receiving call-ups.
+                - (DD) If multiple teams have bids of equal value for a single player, the team lower in the standings will obtain the desired player, with tiebreaks being applied as necessary.
+                - (EE) If multiple teams have bids of equal value for a single player, but also have played an uneven amount of games, the tiebreaker will be based on the percent of standings points acquired in the games that they have played so far.
+                - (FF) If a player should be awarded to a team, TCN will be deducted from the team's total TCN equal to the number of TCN included in their bid and independent of the value of the rostered player used in the bid. The rostered player used in the bid will be eligible for the next stage of phase 2.
+                - (GG) Bids will automatically be reduced to never exceed available TCN. In the event of the same rostered player being used in multiple bids, additional bids will be thrown out upon winning a bid using that player.
+                - (HH) A bid with a value of zero TCN on a specific player is valid, so long as it is still accompanied by a player drafted at auction. TCN must be used in whole numbers.
     - (c) Add/drop player eligibility:
       - (i) First add/drop period:
         - (1) Add/drop pool:
@@ -434,7 +437,7 @@ ___
         - (2) Dropped players:
           - (aa) Any dropped player will be eligible for the Novice draft unless called up by another team during the remainder of the first add/drop period.
         - (3) Called up players:
-          - (aa) Any called up player will be removed from the Novice draft unless dropped during the remainder of the first add/drop period.
+          - (aa) Any called up player will be removed from the Novice draft unless dropped during the remainder of the first add/drop period or awarded DEP status.
       - (ii) Remaining add/drop periods:
         - (1) Add/drop pool:
           - (aa) Phase 1
@@ -455,8 +458,8 @@ ___
   - (3) Novice league:
     - (a) Add/drop periods:
       - (i) Regular season:
-        - (1) There will be three add/drop periods during the regular season, specifically as needed for minor league drops.
-          - (aa) Each add/drop period will begin at the conclusion of default time games after week 1, week 2 and week 3, respectively. These periods will last approximately 48 hours and the CRC will announce when bidding opens and when bidding closes for each period. 
+        - (1) There will be as many add/drop periods during the regular season as needed to accomodate minor league drops.
+          - (aa) Each add/drop period will begin at the conclusion of the corresponding Minors add/drop period. These periods will last approximately 48 hours and the CRC will announce when bidding opens and when bidding closes for each period. 
       - (ii) Postseason:
         - (1) There will be no add/drop periods in the postseason.
     - (b) Add/drop process:
@@ -465,12 +468,13 @@ ___
         - (1) Phase 1
           - (aa) Novice captains with a rostered player possessing Minors to Novice DEP status may claim a player from the pool of eligible Minors drops and replace a player on their roster with DEP status with the Minors drop.
           - (bb) The Minors drop will be awarded to the team with the highest bid, calculated by the value of the DEP being released added with any additional TCA from their budget they choose to spend.
-          - (cc) Any player with DEP status who is removed from a roster during phase 1 is ineligible for phase 2 of the add/drop process.
+          - (cc) Any player with DEP status who is removed from a roster during phase 1 is ineligible for phases 2 and 3 of the add/drop process.
         - (2) Phase 2
           - (aa) Novice captains may claim any eligible player.
           - (bb) Claims will be made in the form of bids and will be processed in stages.
             - (I) A bid will be defined as a rostered player who was obtained during the auction draft and any number of TCA.
             - (II) Starting TCA are equal to the number of TCA remaining at the conclusion of the auction draft.
+            - (III) Bidding Process:
               - (1) The value of a bid will be equal to the TCA value of the rostered player being bid added to the value of TCA included in the bid.
               - (2) All teams will have the opportunity to make a bid on any eligible players in each stage of the present phase. When a stage is complete, the players will be awarded to the team with the highest value bid.
               - (3) If a team submits multiple bids in one stage, those bids will be processed in descending order of value. If there are multiple bids of the same value on different players, those bids will be processed in order of submission. If multiple bids on a single player are received from a single team, only the most recent submission will be considered.
