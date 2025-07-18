@@ -45,7 +45,6 @@
 - [Article VIII - Playoffs](#article-viii---playoffs)
   * [Section A - Team Eligibility](#section-a---team-eligibility)
   * [Section B - Seeding](#section-b---seeding)
-  * [Section C - Rounds](#section-c---rounds)
 - [Article IX - Cheating](#article-ix---cheating)
   * [Section A - Cheating](#section-a---cheating)
   * [Section B - Scripts](#section-b---scripts)
