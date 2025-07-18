@@ -31,7 +31,7 @@
   * [Section C - Microphone Restrictions](#section-c---microphone-restrictions)
   * [Section D - Scrimmage Restrictions](#section-d---scrimmage-restrictions)
 - [Article VI - Maps](#article-vi---maps)
-  * [Section A - The Map Selection Panel](#section-a---map-selection)
+  * [Section A - Map Selection](#section-a---map-selection)
   * [Section B - Playoffs](#section-b---playoffs)
 - [Article VII - Matches](#article-vii---matches)
   * [Section A - Match Scheduling](#section-a---match-scheduling)
