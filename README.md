@@ -11,7 +11,7 @@
   * [Section F - Games](#section-f---games)
 - [Article II - Leadership Roles, Member Roles & Eligibility](#article-ii---leadership-roles-member-roles--eligibility)
   * [Section A - The Committee for Rules and Coordination (CRC)](#section-a---the-committee-for-rules-and-coordination-crc)
-  * [Section B - The League Manager (LM)](#section-b---the-league-managers-lm)
+  * [Section B - The League Managers (LM)](#section-b---the-league-managers-lm)
   * [Section C - Captains and Co-Captains](#section-c---captains-and-co-captains)
   * [Section D - Players](#section-d---players)
   * [Section E - Referees](#section-e---referees)
@@ -288,7 +288,9 @@ ___
     - (g) TC may not be spent to remove a player from a roster and replace them on the draft board.
   - (2) Nominations:
     - (a) Captains will be responsible for submitting nominations for their team unless otherwise communicated with the CRC. The CRC reserves the right to decline any non-captain from submitting nominations at their discretion, but will work with captains if they have difficulty finding a replacement.
-    - (b) Nomination order will be randomly assigned and snake in reverse order upon completion of each round.
+    - (b) Nomination order:
+      - (i) For leagues with only GMs, the order will be randomly assigned and snake in reverse order upon completion of each round.
+      - (ii) For leagues with non-equal TC budgets, the order will be determined by the TC budget of each team, where the team with the least amount of TC will go first and will snake in reverse order upon completion of each round. Teams with a tied budget will have the order randomly assigned.
     - (c) Nomination spots may not be traded.
     - (d) Nominations will continue until each team has exactly 4 players.
       - (i) Novice league will transition to a snake draft once each roster contains 4 players.
