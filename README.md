@@ -25,6 +25,7 @@
   * [Section C - Loans](#section-c---loans)
   * [Section D - Captain Specific Roster Changes](#section-d---captain-specific-roster-changes)
   * [Section E - Dual Eligible Players (DEPs)](#section-e---dual-eligible-players-deps)
+  * [Section F - Out of League Substitutions (OOLs)](#section-f---out-of-league-substitutions-(ools))
 - [Article V - Player Restrictions.](#article-v---player-restrictions)
   * [Section A - Proper Position Restrictions](#section-a---proper-position-restrictions)
   * [Section B - Scheduling Restrictions](#section-b---scheduling-restrictions)
@@ -463,7 +464,7 @@ ___
       - (ii) Postseason:
         - (1) There will be no add/drop periods in the postseason.
     - (b) Add/drop process:
-      - (i) An add/drop will consist of an auction draft player on a roster being dropped, followed by a player dropped from minors being added to the roster.
+      - (i) An add/drop will consist of an auction draft player on a roster being dropped, followed by a player dropped from Minors being added to the roster.
       - (ii) Each add/drop period will be completed in three phases
         - (1) Phase 1
           - (aa) Novice captains with a rostered player possessing Minors to Novice DEP status may claim a player from the pool of eligible Minors drops and replace a player on their roster with DEP status with the Minors drop.
@@ -478,16 +479,18 @@ ___
               - (1) The value of a bid will be equal to the TCA value of the rostered player being bid added to the value of TCA included in the bid.
               - (2) All teams will have the opportunity to make a bid on any eligible players in each stage of the present phase. When a stage is complete, the players will be awarded to the team with the highest value bid.
               - (3) If a team submits multiple bids in one stage, those bids will be processed in descending order of value. If there are multiple bids of the same value on different players, those bids will be processed in order of submission. If multiple bids on a single player are received from a single team, only the most recent submission will be considered.
-              - (4) If two teams have bids of equal value for a single player, the team with the worse season record will obtain the desired player, with tiebreaks being applied as necessary.
-              - (5) If a player should be awarded to a team, TCA will be deducted from the team's total TCA equal to the number of TCA included in their bid and independent of the value of the rostered player used in the bid. The rostered player used in the bid will be eligible for the next stage of phase 2.
-              - (6) Bids will automatically be reduced to never exceed available TCA. In the event of the same rostered player being used in multiple bids, additional bids will be thrown out upon winning a bid using that player.
-              - (7) A bid with a value of zero TCA on a specific player is valid, so long as it is still accompanied by a player drafted at auction. TCA must be used in whole numbers.
+              - (4) If multiple teams have bids of equal value for a single player, the team lower in the standings will obtain the desired player, with tiebreaks being applied as necessary.
+              - (5) If multiple teams have bids of equal value for a single player, but also have played an uneven amount of games, the tiebreaker will be based on the percent of standings points acquired in the games that they have played so far.
+              - (6) If a player should be awarded to a team, TCA will be deducted from the team's total TCA equal to the number of TCA included in their bid and independent of the value of the rostered player used in the bid. The rostered player used in the bid will be eligible for the next stage of phase 2.
+              - (7) Bids will automatically be reduced to never exceed available TCA. In the event of the same rostered player being used in multiple bids, additional bids will be thrown out upon winning a bid using that player.
+              - (8) A bid with a value of zero TCA on a specific player is valid, so long as it is still accompanied by a player drafted at auction. TCA must be used in whole numbers.
           - (cc) When a player or players are no longer receiving bids and are not rostered at the conclusion of phase 2 bidding, phase 3 will begin. 
         - (3) Phase 3
           - (aa) Players that are not rostered at the end of phase 2 will be eligible to claim by any team within the next 24 hours.
           - (bb) In the event that multiple teams attempt to add a player, the team with lowest standings points will be awarded the player, with tiebreakers applied as necessary.
-          - (cc) If no claims are made on a player during phase 3, the CRC will assign the player to a team at their discretion. 
-          - (dd) Players acquired during phase 3 are considered snake drafted players now and have no TCA value assigned to them.
+          - (cc) In the event that multiple teams attempt to add a player, but also have played an uneven amount of games, the tiebreaker will be based on the percent of standings points acquired in the games that they have played so far.
+          - (dd) If no claims are made on a player during phase 3, the CRC will assign the player to a team at their discretion, with bias towards balancing roster activity.
+          - (ee) Players acquired during phase 3 are now considered snake drafted players and have no TCA value assigned to them.
     - (c) Add/drop player eligibility:
       - (i) All players dropped from Minors that do not have any restriction from playing Novice will be eligible.
       - (ii) Players dropped from Minors will be contacted by the CRC to confirm their interest in joining the Novice league.
