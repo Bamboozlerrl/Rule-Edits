@@ -25,7 +25,7 @@
   * [Section C - Loans](#section-c---loans)
   * [Section D - Captain Specific Roster Changes](#section-d---captain-specific-roster-changes)
   * [Section E - Dual Eligible Players (DEPs)](#section-e---dual-eligible-players-deps)
-  * [Section F - Out of League Substitutions (OOLs)](#section-f---Out-of-League-Substitutions-(OOLs))
+  * [Section F - Out of League Substitutions (OOLs)](#section-f---Out-of-League-Substitutions-OOLs)
 - [Article V - Player Restrictions.](#article-v---player-restrictions)
   * [Section A - Proper Position Restrictions](#section-a---proper-position-restrictions)
   * [Section B - Scheduling Restrictions](#section-b---scheduling-restrictions)
