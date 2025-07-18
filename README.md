@@ -574,14 +574,15 @@ ___
   - (3) Players who are called up to a Majors league team AND play in Majors league games will be ineligible to play in Novice league for the current week unless otherwise approved by the CRC.
 
 #### Section F - Out of League Substitutions (OOLs)
-  - (1) An OOL sub may be requested by a team when a captain or player is suspended, G.I. dropped or is otherwise unable or unwilling to complete the season.
-  - (2) Prior to the season's start, there will be a sign up form provided in discord for players to opt-in to becoming an OOL sub.
-    - (a) Players that are signed up for the season already will be ineligible to sign up as an OOL sub.
-  - (3) The CRC will create a list of OOL subs from the signups at their discretion.
-  - (4) The captains will be asked to do a blind bid for each OOL sub. The second highest bid will be the OOL sub's value for the season.
-  - (5) In the case that an OOL sub is needed, the captain may select an OOL sub from the list.
-    - (a) The player selected must have a TC value of 90% or less of the auction value of the player being replaced. 
-    - (b) The player selected must also agree to join the roster. If they decline, they will be removed from the OOL sub list for the remainder of the season.
+  - (1) An OOL may be requested by a team when a captain or player is suspended, G.I. dropped or is otherwise unable or unwilling to complete the season.
+  - (2) Prior to the season's start, there will be a sign up form provided in discord for players to opt-in to becoming an OOL.
+    - (a) Players that are signed up for the season already will be ineligible to sign up as an OOL.
+  - (3) The CRC will create a list of OOLs from the signups at their discretion.
+  - (4) The captains will be asked to do a blind bid for each OOL. The second highest bid will be the OOL's value for the season.
+  - (5) In the case that an OOL is needed, the captain may select an OOL sub from the list.
+    - (a) The player selected must have a TC value < 90% of the auction value of the player being replaced. 
+    - (b) The player selected must also agree to join the roster. If they decline, they will be removed from the OOL list for the remainder of the season.
+    - (c) The player selected will retain any restrictions that were held by the player being replaced.
 ___
 ### Article V - Player Restrictions
 
@@ -600,12 +601,12 @@ ___
 #### Section B - Scheduling Restrictions
   - (1) The CRC may enforce schedule restrictions on a player commensurate with the availability they indicate in their signup comments.
     - (a) These restrictions will be communicated to the player and all captains prior to the relevant draft, with the ability to make changes pre-draft.
-    - (b) When missed dates are included in a player's signup, restrictions will be applied to those specific date.
+    - (b) When missed dates are included in a player's signup, restrictions will be applied to those specific dates.
       - (i) Ex: Signup comment reads "I will miss 6/14-6/16 for a business trip", restriction applied is "Player is ineligible to play between 6/14 and 6/16."
       - (ii) Date range restrictions are inclusive of the days listed. In the above example, the player would not be eligible on 6/14, 6/15 or 6/16.
     - (c) Generic comments about missed time may result in a minutes restriction or game week restriction.
       - (i) Minute restrictions will be determined by subtracting the number of weeks a player will miss multiplied by 50 from the total number of available minutes in the given season.
-        - (1) Ex: Signup comment reads "I will probably miss 2 weeks this season for IRL stuff", restriction applied is "Player is eligible for 250 minutes this season." Calculation - 350-(2x50).
+        - (1) Ex: Signup comment reads "I will probably miss 2 weeks this season for underwater firelighting class", restriction applied is "Player is eligible for 250 minutes this season." Calculation - 350-(2x50).
         - (2) Minute restrictions are not linked to the specific week(s) a player is missing. If the player's conflict is resolved the restriction will still apply, but their captain may choose to play them and fulfill the restriction by sitting them a different week.
       - (ii) Game week restrictions will be assessed on the appropriate game week at the CRC's discretion.
         - (1) Ex: Signup comment reads "I will miss week 5 games", restriction applied is "Player is ineligible to play week 5 games."
@@ -642,25 +643,28 @@ ___
     - (a) Submitted times must fall between 8:30 PM and 10:30 PM Eastern Time or they will be adjusted to match these boundaries.
   - (2) The default gametime will be the average of the two teams’ default game times.
     - (a) Example: Team A’s default gametime is 8:30 PM ET. Team B’s default gametime is 10 PM ET. By default, this match will begin at 9:15 PM ET.
+    - (b) Default times are rounded down to the nearest minute.
+      - (i) Example: Team A's default time is 8:30 PM ET. Team B's default time is 9:45 PM ET. By default, this match will begin at 9:07 PM ET.
   - (3) Default days
     - (a) Major league games will take place on Sunday nights.
     - (b) Minor league games will take place on Monday nights.
     - (c) Novice league games will take place on Wednesday nights.
-  - (4) At any point, both captains may agree to move a match to a date and/or time other than the one indicated by the schedule so long as it is within 72 hours of the default game time. The CRC must be notified if this happens.
-    - (a) Reschedules may be declined by the CRC at their discretion, especially in instances which place a match outside of the designated 72 hour period or that may delay free agency, playoffs, or anything else deemed important by the CRC.
-  - (5) Once both captains agree to a reschedule and it is CRC approved, that time becomes the new default time for the game. Any further rescheduling, including returning to the original default time, must be agreed upon by both captains and the CRC once again. Any further rescheduling must also remain within 72 hours of the original default game time or risk being declined by the CRC.
+  - (4) At any point, both captains may agree to move a match to a date and/or time other than the one indicated by the schedule so long as it is within 48 hours of the default game time. The CRC must be notified if this happens.
+    - (a) Reschedules may be declined by the CRC at their discretion, especially in instances which place a match outside of the designated 48 hour period or that may delay free agency, playoffs, or anything else deemed important by the CRC.
+    - (b) Failure to notify the CRC of a rescheduled match may result in standings points deductions or another disciplinary action as determined by the CRC on a case by case basis.
+    - (c) Once both captains agree to a reschedule and it is CRC approved, that time becomes the new default time for the game. Any further rescheduling, including returning to the original default time, must be agreed upon by both captains and the CRC once again. Any further rescheduling must also remain within 48 hours of the original default game time or risk being declined by the CRC.
 
 #### Section B - Settings
   - (1) Regular Season:
     - (a) For each week there will be one match consisting of five games.
-    - (b) Maps and team colors will follow the schedule posted by the CRC
+    - (b) Maps and team colors will follow the schedule posted by the CRC.
     - (c) Game settings:
       - (i) Capture limit set to none;
       - (ii) Time limit set to 10 minutes;
       - (iii) Overtime set to on;
         - (1) Overtime respawn increment: Disabled;
         - (2) Overtime bonus Juke Juices: Disabled;
-      - (iv) Mercy rule disable;
+      - (iv) Mercy rule disabled;
       - (v) Acceleration set to 100%;
       - (vi) Top speed set to 100%;
       - (vii) Bounciness set to 100%;
@@ -677,7 +681,7 @@ ___
     - (d) Server settings:
       - (i) At any point during or before a series, both captains may agree to play any of their games on a server other than the default. Either captain may elect to return to the default servers up until the match begins (or play resumes, if the agreement is mid-match)--at that point the servers are locked with the final agreement reached unless both captains agree to change them again.
       - (ii) All games will be set to Chicago by default. If Chicago is the only server in the central region, games are to be launched with the regional selection "Central". In the event that multiple central locations existing simultaneously, the Chicago server with the lowest associated number will be considered the default (e.g. Chicago1).
-    - (e) If overtime is unable to be played for any reason including but not limited to incorrect settings, game crashes, or back to group callouts.
+    - (e) If overtime is unable to be played for any reason including, but not limited to incorrect settings, game crashes, or back to group callouts.
       - (i) The involved teams will play a single ‘golden cap’ game with the following settings:
         - (1) Time limit set to 20 minutes;
         - (2) Overtime set to on;
@@ -696,8 +700,13 @@ ___
           - (bb) Teams will take turns picking from the available maps and assigning them to available games. The first team may choose any map from the pool and assign it to any game from 1-7. The next team may choose any map except the first one and assign it to any remaining game, etc.
             - (I) At any point during the Pick/Ban either team may choose to select a color order (assign their team to Red or Blue for games 1/3/5/7) instead of selecting a map. After this is done once by either team neither team may use this option again.
             - (II) At any point during the Pick/Ban, either team may choose to ban one map instead of selecting a map. This can be done as many times as mathematically possible until there are 7 eligible maps.
-        - (2) Pick/bans must be completed no later than 48 hours before the matchup.
-        - (3) All playoff matches require pick/bans.
+        - (2) All playoff matches require pick/bans.
+        - (3) Pick/bans must be completed prior to the matchup, at an agreed upon time by captains.
+        - (4) Captains may agree to do their pick/ban "on stream" or "in group". These have the same meaning.
+          - (aa) In this case, the pick/ban is subject to the following rules:
+            - (I) The pick/ban will start at the designated default time for the matchup.
+            - (II) The pick/ban is now subject to the rules in [Section G - Game Start Time Rules, Forfeits](#section-g---game-start-time-rules-forfeits).
+            - (III) 
     - (b) Game settings:
       - (i) Games 1-7:
         - (1) Capture limit set to none;
