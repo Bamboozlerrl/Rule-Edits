@@ -14,6 +14,7 @@
   * [Section B - The League Manager (LM)](#section-b---the-league-managers-lm)
   * [Section C - Captains and Co-Captains](#section-c---captains-and-co-captains)
   * [Section D - Players](#section-d---players)
+  * [Section E - Referees](#section-e---referees)
 - [Article III - Drafting](#article-iii---drafting)
   * [Section A - General Draft Information](#section-a---general-draft-information)
   * [Section B - The Auction Drafts](#section-b---the-auction-drafts)
@@ -120,8 +121,8 @@ ___
     - (b) At the conclusion of every season, the existing members of the CRC will be retired and eligible for re-election.
   - (2) Elections:
     - (a) At the conclusion of the season, elections will be held to fill the five vacancies on the CRC.
-    - (b) The election will be conducted by the CRC and overseen by the League Managers.
-    - (c) The CRC will call for election applications and allow reasonable time for people to submit them.
+    - (b) The election will be conducted by the League Managers.
+    - (c) The LM will call for election applications and allow reasonable time for people to submit them.
       - (i) Applicants will be made public to allow reasonable time for interpretation prior to the election.
       - (ii) The same list of applicants will be used for all seats.
     - (d) The first two seats will be filled by a combined vote of the previous season’s Captains from all three tiers.
@@ -145,6 +146,7 @@ ___
   - (1) League Manager structure overview:
     - (a) The League Managers will consist of at least two members as decided by the CRC and/or current League Managers.
     - (b) The League Managers are responsible for maintaining league structure including, but not limited to, signups, the big board, statistics collection, awards voting, and TagProLeague in addition to maintaining the information hub, schedule, competitive discord, logos and jerseys, and rulebook in conjunction with the CRC.
+      - (i) The NALTP CRC may demand full access to any league administrative tools as noted above, as well as the TToC_Bot and any other tool deemed appropriate, to ensure smooth facilitation of the league.
   - (2) Elections:
     - (a) The League Manager role is not an elected position.
   - (3) Retirement:
@@ -155,7 +157,7 @@ ___
 
 #### Section C - Captains and Co-Captains
   - (1) Captaincy and Co-Captaincy structure overview:
-    - (a) For each team in NALTP there will be a Captain, or General Manager (GM).
+    - (a) For each team in NALTP there will be a Captain or General Manager (GM).
     - (b) The number of captains or GMs will be decided by the CRC prior to the draft of each individual league.
     - (c) Captaincy types:
       - (i) Direct Playing Captain (DPC): DPCs are playing members of their rosters. DPCs start on their own roster during the auction draft, and receive TagCoins relative to their perceived skill.
@@ -212,7 +214,7 @@ ___
       - (iii) Players will not be permitted to switch positions to circumvent these rules.
       - (iv) It is the responsibility of the player to confirm their eligibility for the draft.
     - (b) Players with fewer than 110 minutes minutes of competitive experience will be eligible to sign up for the Novice league draft even if they did not enter the Majors or Minors league drafts unless deemed too skilled by the CRC. Any other signups will be sparingly approved on a case by case basis.
-    - (c) Players removed from the a league draft by the CRC are not eligible to enter the following lower-league drafts.
+    - (c) Players removed from a league draft by the CRC are not eligible to enter the following lower-league drafts.
     - (d) Signups indicating zero availability on all game nights will be contacted by the CRC and removed if a conclusion cannot be reached.
     - (e) Players determined to be manipulating their value prior to the draft may be removed from the draft and/or subject to punishment in NALTP. See [Article IX, Section D](#section-d---stock-manipulation) for more information on draft stock manipulation.
     - (f) All other eligibility and restriction cases will be dealt with on a case-by-case measure through the CRC.
@@ -225,6 +227,37 @@ ___
     - (a) Players dropped in their previous season for Gross Inactivity or misconduct may be barred from NALTP at CRC discretion.
   - (4) Free agency eligibility and restrictions:
     - (a) See [Article IV, Section B](#section-b---drops-call-ups-free-agency) for eligibility and restrictions.
+   
+#### Section E - Referees
+  - (1) Referee Structure Overview:
+    - (a) For each league in NALTP, there will be one referee.
+    - (b) At the conclusion of every regular season, the existing league referees will be retired and eligible to apply for the following season.
+    - (c) The CRC can retire any referee at any time and appoint a replacement from the list of applicants at their discretion, by majority vote.
+  - (2) Selection:
+    - (a) The CRC will host applications during the preseason to create a listed of interested referees.
+    - (b) Following each league draft, the league referee will be chosen by the CRC by majority vote at least 48 hours before Week 1 matchups begin.
+  - (3) Eligibility:
+    - (a) All players are eligible to become a referee, with the following exceptions:
+      - (i) CRC and LM are ineligible to also become referees, for obvious reasons.
+      - (ii) GMs, captains, official co-captains and un-official co-captains are ineligible to referee for any league in which they are affiliated.
+      - (iii) Players are ineligible to referee for the league(s) in which they are playing.
+      - (iv) Any player who has served or is currently serving an NALTP ban/suspension is ineligible to become a referee.
+      - (v) Any player who is currently serving a TagPro ban is ineligible to become a referee.
+  - (4) Duties:
+    - (a) Referees shall by online for their league's default game night for 100% of the regular season matchups.
+      - (i) There will be a "Referee" voice channel that referees are expected to be connected to during matchups, so captains and/or GMs can quickly access the referee.
+      - (ii) Other persons may be in the voice channel, but will be expected to disconnect or deafen when the referee is needed for a ruling.
+      - (iii) Referees are not expected to be online for games rescheduled to non-default days for their respective league.
+    - (b) Referees will have the power to enforce the rules as written, as an extension of the CRC.
+    - (c) Referees will not make decisions that require any rule interpretation and shall instead escalate the issue to the CRC immediately.
+    - (d) Referees that need to miss a game night will inform the CRC no later than 24 hours prior to the first default game time.
+  - (5) Vacancies:
+    - (a) Should a referee retire mid-season, be promoted to playing in the league that they referee in, or otherwise leave a vacancy, the CRC will appoint a replacement from the list of applicants by majority vote.
+  - (6) S37 Referees:
+    - (a) MLTP - 
+    - (b) mLTP - 
+    - (c) NLTP -
+
 ___
 ### Article III - Drafting
 
