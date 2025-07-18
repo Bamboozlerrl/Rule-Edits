@@ -703,10 +703,13 @@ ___
         - (2) All playoff matches require pick/bans.
         - (3) Pick/bans must be completed prior to the matchup, at an agreed upon time by captains.
         - (4) Captains may agree to do their pick/ban "on stream" or "in group". These have the same meaning.
-          - (aa) In this case, the pick/ban is subject to the following rules:
-            - (I) The pick/ban will start at the designated default time for the matchup.
-            - (II) The pick/ban is now subject to the rules in [Section G - Game Start Time Rules, Forfeits](#section-g---game-start-time-rules-forfeits).
-            - (III) 
+          - (aa) The CRC must be notified at least 24 hours in advance so that they may provide someone to oversee the pick/ban process.
+          - (bb) The pick/ban is now subject to the following rules:
+            - (I) The pick/ban will start at the designated default time for the matchup and is now considered the start of the matchup.
+            - (II) The pick/ban will occur in the match's group link.
+            - (III) The pick/ban is now subject to the rules in [Section G - Game Start Time Rules, Forfeits](#section-g---game-start-time-rules-forfeits).
+            - (IV) A turn may not last longer than 30 seconds.
+            - (V) If a turn lasts longer than 30 seconds, the other team may submit another pick. This resets the timer for the team that was skipped to 30 seconds.
     - (b) Game settings:
       - (i) Games 1-7:
         - (1) Capture limit set to none;
@@ -755,6 +758,12 @@ ___
       - (iii) Captains, official co-captains or an approved stand-in, and players in-game are the only group members permitted to call timeout.
     - (b) Mid-late game:
       - (i) Timeouts will not be permitted. Teams are encouraged to have subs ready if they are experiencing connectivity issues. Please see [Article IV Section C](#section-c---loans) for more information on hot-subs and loans.
+    - (c) If both captains agree to go back to group for any reason, including lagout, group joiner bugs, etc, the following must happen:
+      - (i) The team calling the timeout must return their flag to their base before the timeout takes effect. This does not require a full reset; the timeout will begin upon the return even if the flag is immediately transferred to regrab.
+      - (ii) If the team calling the timeout is winning when the timeout is called, the time will be rounded up to the nearest whole minute.
+      - (iii) If the team calling the timeout is losing when the timeout is called, the time will be rounded down to the nearest whole minute.
+      - (iv) Game settings will remain the same, except remaining time as outlined above.
+      - (v) Remember to save .eus from before and after the timeout, as TagPro League can handle timeouts.
   - (2) Novice league:
     - (a) Early game:
       - (i) Timeout may be called if a game is launched but a player who was correctly positioned on the group page is not entered into the game.
@@ -793,8 +802,8 @@ ___
     - (b) The group link was shared at least 5 minutes ago.
   - (5) Once a match has started the group leader will launch each game after a captain or majority of both teams indicates they are ready.
     - (a) A team must indicate they are ready within 3 minutes of the previous game, unless a break is requested.
-    - (b) A team may only have one break per match, this break may only last up to 5 minutes.
-  - (6) Any team delaying a game by breaking these rules may receive a forfeit or deduction in standing points as penalty.
+    - (b) A team may only have one break per match, this break may only last up to 5 minutes and the break may be used before any game, including game 1.
+  - (6) Any team delaying a game by breaking these rules may receive a forfeit, deduction in standing points or capture penalty at the CRC's discretion.
   - (7) If a game must be delayed for a CRC decision there will be no forfeiture due to delays.
 
 #### Section H - Voice Channels
@@ -830,7 +839,14 @@ ___
     - (e) Total caps scored;
     - (f) A 5-minute OFM round-robin tournament with one player from each team. The player must be rostered on the team, and the captain will be allowed to choose the player.
   - (4) If the seeding of one team is determined in a three-or-more team tiebreaker but other seeds aren't, tiebreak rules continue as they are and do not reset for the remaining teams.
-  - (5) The highest seeded team without a bye will select their opponent within 24 hours of the conclusion of the regular season. The next highest seed will then select their opponent, and so on, until all matchups are finalized.
+  - (5) Opponent Selection:
+    - (a) Teams will have the opportunity to select their opponents for each round of the playoffs that contains more than 2 teams.
+    - (b) The CRC will announce the deadline to submit selections, with submissions typically due within 24 hours of the conclusion of the previous week's games.
+    - (c) Selections are submitted directly to a CRC member.
+      - (i) Selections should have multiple options, should higher seeds fail to make their selection. For example: Seed 4 submits "Select 8th seed. If not, then 7th seed. If not, then 5th seed." 
+    - (d) Selections are processed in order of highest seed to lowest seed.
+    - (e) If a team fails to submit a selection, their selection is skipped and the next highest seeded team's selection is used instead.
+    - (f) If multiple or all teams fail to submit a selection, the matchups will be determined by highest available seed playing against lowest available seed, until all matchups are determined.
 ___
 ### Article IX - Cheating
 
@@ -851,7 +867,7 @@ ___
   - (3) Bots and Bomb/boost/powerup timers are strictly prohibited.
 
 #### Section C - Whistleblowing
-  - (1) Any person who has proof or suspicion of cheating in any way should send a detailed message to the CRC, or message an individual CRC member. If requested, commissioners will not disclose the name of the whistleblower.
+  - (1) Any person who has proof or suspicion of cheating in any way should send a detailed message to the CRC, or message an individual CRC member. If requested, commissioners will not disclose the name of the whistleblower. There is also a whistleblower form on the current info hub for the season.
   - (2) Any person who has proof or suspects all CRC members of cheating in any way should send a detailed message to any/all captains.
   - (3) Serious accusations of cheating are prohibited in any public setting without first conferring with multiple captains or CRC members.
 
