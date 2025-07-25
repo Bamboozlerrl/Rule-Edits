@@ -579,7 +579,8 @@ ___
     - (a) Players that are signed up for the season already will be ineligible to sign up as an OOL.
   - (3) The CRC will create a list of OOLs from the signups at their discretion.
   - (4) The captains will be asked to do a blind bid for each OOL. The second highest bid will be the OOL's value for the season.
-  - (5) In the case that an OOL is needed, the captain may select an OOL sub from the list.
+  - (5) During the season, if a non-rostered player would prefer to be added to the list of OOL loans, the CRC may initiate a captains vote. If a majority of captains approve, the player will receive a TagCoin value from the CRC and be added to the OOL list.
+  - (6) In the case that an OOL is needed, the captain may select an OOL sub from the list.
     - (a) The player selected must have a TC value < 90% of the auction value of the player being replaced. 
     - (b) The player selected must also agree to join the roster. If they decline, they will be removed from the OOL list for the remainder of the season.
     - (c) The player selected will retain any restrictions that were held by the player being replaced.
