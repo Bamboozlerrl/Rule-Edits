@@ -140,7 +140,7 @@ ___
       - (i) At the conclusion of the season, the appointed member is retired, and that seat becomes one of the open seats in the election.
       - (ii) The appointed member does not have any term restrictions and can run for election to the CRC immediately.
   - (4) Members:
-    - (a) The Season 37 CRC will consist of .
+    - (a) The Season 37 CRC will consist of fender, Bamboozler, timmysumball, Spheroid and bbb.
 
 #### Section B - The League Managers (LM)
   - (1) League Manager structure overview:
