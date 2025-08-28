@@ -242,7 +242,7 @@ ___
       - (i) CRC and LM are ineligible to also become referees, for obvious reasons.
       - (ii) GMs, captains, official co-captains and un-official co-captains are ineligible to referee for any league in which they are affiliated.
       - (iii) Players are ineligible to referee for the league(s) in which they are playing.
-      - (iv) Any player who has served or is currently serving an NALTP ban/suspension is ineligible to become a referee.
+      - (iv) Any player who is currently serving an NALTP ban/suspension is ineligible to become a referee.
       - (v) Any player who is currently serving a TagPro ban is ineligible to become a referee.
   - (4) Duties:
     - (a) Referees shall by online for their league's default game night for 100% of the regular season matchups.
@@ -316,7 +316,10 @@ ___
     - (d) Teams will have 60 seconds to submit a snake pick. Failure to select a player will result in the top player from the draft packet being added to their roster.
     	- (i) Captains may choose to opt-out of participation in the snake draft. Those who do will receive the top player from the draft packet when it is their turn to pick.
     - (e) At the conclusion or each round the draft order is reversed. The last pick in round 1 will have the first pick in round 2 while the first pick in round 1 will have the last pick in round 2.
+      - (i) The final round of the snake will always follow the order of the first round, regardless of the previous round's order.
     - (f) The snake draft will continue until every eligible signup has been drafted to a team.
+    - (g) The final snake round will introduce an option to pass on selecting a player, where teams will be allowed to skip their selection until there are mathematically enough picks left to finish the draft.
+      - (i) Example: There are 8 teams and the final round has 5 players remaining. At maximum, 3 teams may pass on selecting a player.
 ___
 ### Article IV - Roster changes
 
