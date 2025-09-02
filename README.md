@@ -30,7 +30,6 @@
   * [Section A - Proper Position Restrictions](#section-a---proper-position-restrictions)
   * [Section B - Scheduling Restrictions](#section-b---scheduling-restrictions)
   * [Section C - Microphone Restrictions](#section-c---microphone-restrictions)
-  * [Section D - Scrimmage Restrictions](#section-d---scrimmage-restrictions)
 - [Article VI - Maps](#article-vi---maps)
   * [Section A - Map Selection](#section-a---map-selection)
   * [Section B - Playoffs](#section-b---playoffs)
@@ -605,14 +604,6 @@ ___
     - (a) These restrictions will be communicated to the player and all captains prior to the relevant draft, with the ability to make changes pre-draft.
     - (b) These players must remained muted in their team's voice chat during all league games. 
   - (2) In Novice league, microphone restrictions are not enforced.
-
-#### Section D - Scrimmage Restrictions
-  - (1) In the Major and Minors leagues, scrimmage (aka scrim) restrictions may be enforced on players that sign up indicating that they are unwilling to scrim during the season and/or postseason.
-    - (a) These restrictions will be communicated to the player and all captains prior to the relevant draft, with the ability to make changes pre-draft.
-    - (b) A scrim is defined as any private group with 2 or more players from the same roster in the group.
-      - (i) This applies even if the players from the same roster are playing on different teams, in an OFM, etc.
-      - (ii) Example: Players A, B, C and D are rostered on Team 1. If player A has a scrim restriction, they cannot play in any private group with players B, C or D at any point.
-      - (iii) This does not apply to ranked or casual public matches, if a scrim restricted player is paired with one or more of their teammates by TagPro's matchmaking system.
 
 ___
 ### Article VI - Maps
