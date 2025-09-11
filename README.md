@@ -14,7 +14,6 @@
   * [Section B - The League Managers (LM)](#section-b---the-league-managers-lm)
   * [Section C - Captains and Co-Captains](#section-c---captains-and-co-captains)
   * [Section D - Players](#section-d---players)
-  * [Section E - Referees](#section-e---referees)
 - [Article III - Drafting](#article-iii---drafting)
   * [Section A - General Draft Information](#section-a---general-draft-information)
   * [Section B - The Auction Drafts](#section-b---the-auction-drafts)
@@ -227,36 +226,6 @@ ___
   - (4) Free agency eligibility and restrictions:
     - (a) See [Article IV, Section B](#section-b---drops-call-ups-free-agency) for eligibility and restrictions.
   - (5) All players are limited to one (1) name for the season, which they are required to play under in all tiers.
-   
-#### Section E - Referees
-  - (1) Referee Structure Overview:
-    - (a) For each league in NALTP, there will be one referee.
-    - (b) At the conclusion of every regular season, the existing league referees will be retired and eligible to apply for the following season.
-    - (c) The CRC can retire any referee at any time and appoint a replacement from the list of applicants at their discretion, by majority vote.
-  - (2) Selection:
-    - (a) The CRC will host applications during the preseason to create a list of potential referees.
-    - (b) Following each league draft, the league referee will be chosen by the CRC by majority vote at least 48 hours before Week 1 matchups begin.
-  - (3) Eligibility:
-    - (a) All players are eligible to become a referee, with the following exceptions:
-      - (i) CRC and LM are ineligible to also become referees, for obvious reasons.
-      - (ii) GMs, captains, official co-captains and un-official co-captains are ineligible to referee for any league in which they are affiliated.
-      - (iii) Players are ineligible to referee for the league(s) in which they are playing.
-      - (iv) Any player who is currently serving an NALTP ban/suspension is ineligible to become a referee.
-      - (v) Any player who is currently serving a TagPro ban is ineligible to become a referee.
-  - (4) Duties:
-    - (a) Referees shall by online for their league's default game night for 100% of the regular season matchups.
-      - (i) There will be a "Referee" voice channel that referees are expected to be connected to during matchups, so captains and/or GMs can quickly access the referee.
-      - (ii) Other persons may be in the voice channel, but will be expected to disconnect or deafen when the referee is needed for a ruling.
-      - (iii) Referees are not expected to be online for games rescheduled to non-default days for their respective league.
-    - (b) Referees will have the power to enforce the rules as written, as an extension of the CRC.
-    - (c) Referees will not make decisions that require any rule interpretation and shall instead escalate the issue to the CRC immediately.
-    - (d) Referees that need to miss a game night will inform the CRC no later than 24 hours prior to the first default game time.
-  - (5) Vacancies:
-    - (a) Should a referee retire mid-season, be promoted to playing in the league that they referee in, or otherwise leave a vacancy, the CRC will appoint a replacement from the list of applicants by majority vote.
-  - (6) S37 Referees:
-    - (a) MLTP - 
-    - (b) mLTP - 
-    - (c) NLTP -
 
 ___
 ### Article III - Drafting
