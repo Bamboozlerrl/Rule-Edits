@@ -52,7 +52,7 @@
 - [Article X - Etiquette](#article-x---etiquette)
 - [Article XI - Statistics](#article-xi---statistics)
   * [Section A - TagPro League (TPL)](#section-a---tagpro-league-tpl)
-  * [Section B - Stat Normalization for Forfeits or Noncompetitive Games](#section-a---stat-normalization-for-forfeits-or-noncompetitive-games)
+  * [Section B - Stat Normalization for Forfeits or Noncompetitive Games](#section-b---stat-normalization-for-forfeits-or-noncompetitive-games)
 - [Article XII - Votes, Vetoes, VONC’s, & Rule Changes](#article-xii---votes-vetoes-voncs--rule-changes)
   * [Section A - Votes](#section-a---votes)
   * [Section B - Rule Changes](#section-b---rule-changes)
