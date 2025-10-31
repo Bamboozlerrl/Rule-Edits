@@ -1,4 +1,4 @@
-## Official Rules for North American League TagPro (NALTP) Season 37
+## Official Rules for North American League TagPro (NALTP) Season 38
 
 ### Table of Contents
 
@@ -138,7 +138,7 @@ ___
       - (i) At the conclusion of the season, the appointed member is retired, and that seat becomes one of the open seats in the election.
       - (ii) The appointed member does not have any term restrictions and can run for election to the CRC immediately.
   - (4) Members:
-    - (a) The Season 37 CRC will consist of fender, Bamboozler, timmysumball, Spheroid and bbb.
+    - (a) The Season 38 CRC will consist of TBD.
 
 #### Section B - The League Managers (LM)
   - (1) League Manager structure overview:
@@ -150,8 +150,8 @@ ___
   - (3) Retirement:
     - (a) No League Manager is permitted to retire from their position without naming a suitable replacement to be approved by the CRC.
   - (4) Members:
-    - (a) The League Managers for Season 37 will be Poeticalto and Cheezedoodle.
-    - (b) The League Manager Assistant for Season 37 will be Wraith (aka Phreek).
+    - (a) The League Managers for Season 38 will be Poeticalto and Cheezedoodle.
+    - (b) The League Manager Assistant for Season 38 will be Wraith (aka Phreek).
 
 #### Section C - Captains and Co-Captains
   - (1) Captaincy and Co-Captaincy structure overview:
@@ -506,7 +506,8 @@ ___
       - (ii) Players may only be loaned for up to two weeks per team in the regular season for any number of minutes.
       - (iii) Players may be loaned any number of times in the post-season for any number of minutes.
       - (iv) Players who are loaned to a Major league team will be ineligible to play in Novice league for the current week unless otherwise approved by the CRC.
-      - (v) If a player rejects the opportunity to be loaned to a team in a week, they forfeit their right to accept any future loan opportunities for other teams in that league for that same week.
+      - (v) Players can only be loaned after the second add/drop period if the loan is being used to cover for another player's availability issues.
+      - (vi) If a player rejects the opportunity to be loaned to a team in a week, they forfeit their right to accept any future loan opportunities for other teams in that league for that same week.
     - (c) Priority
       - (i) Regular season
         - (1) The first team to contact a player will have priority to loan them for the upcoming week.
@@ -888,6 +889,7 @@ ___
   - (2) Rules are to be interpreted by the CRC only. In the event of a disagreement, the interpretation of a rule that is applied to NALTP will be decided by a majority vote from the CRC.
   - (3) If any member of the CRC is personally involved or their team is involved in a dispute that needs a ruling they will be forced to recuse themselves from the relevant CRC discussions, and subsequent vote. The CRC can, at their discretion, question these recused members if they have inquiries during their investigation.
     - (a) In the event of an even number of voting members, a tied vote will be considered failed.
+    - (b) If a vote cannot be failed, a league manager will cast a tiebreaking vote.
   - (4) Any rule change that will affect an upcoming or ongoing season is available for veto by the relevant GMs or Captains of the affected season.
   - (5) Changes to CRC structure can only be made through CRC vote, an independent committee and/or public referendum. These changes are not available for veto.
 
