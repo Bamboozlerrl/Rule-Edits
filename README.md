@@ -51,7 +51,8 @@
   * [Section D - Stock Manipulation](#section-d---stock-manipulation)
 - [Article X - Etiquette](#article-x---etiquette)
 - [Article XI - Statistics](#article-xi---statistics)
-  * [Section A - TagPro Analytics and TagPro League (TPL)](#section-a---tagpro-analytics-and-tagpro-league-tpl)
+  * [Section A - TagPro League (TPL)](#section-a---tagpro-league-tpl)
+  * [Section B - Stat Normalization for Forfeits or Noncompetitive Games](#section-a---stat-normalization-for-forfeits-or-noncompetitive-games)
 - [Article XII - Votes, Vetoes, VONC’s, & Rule Changes](#article-xii---votes-vetoes-voncs--rule-changes)
   * [Section A - Votes](#section-a---votes)
   * [Section B - Rule Changes](#section-b---rule-changes)
@@ -538,16 +539,11 @@ ___
 
 #### Section F - Out of League Substitutions (OOLs)
   - (1) An OOL may be requested by a team when a captain or player is suspended, G.I. dropped or is otherwise unable or unwilling to complete the season.
-  - (2) Prior to the season's start, there will be a sign up form provided in discord for players to opt-in to becoming an OOL.
-    - (a) Players that are signed up for the season already will be ineligible to sign up as an OOL.
-  - (3) The CRC will create a list of OOLs from the signups at their discretion.
-  - (4) The captains will be asked to do a blind bid for each OOL. The second highest bid will be the OOL's value for the season.
-  - (5) During the season, if a non-rostered player would prefer to be added to the list of OOL loans, the CRC may initiate a captains vote. If a majority of captains approve, the player will receive a TagCoin value from the CRC and be added to the OOL list.
-  - (6) In the case that an OOL is needed, the captain may select an OOL sub from the list.
-    - (a) The player selected must have a TC value < 90% of the auction value of the player being replaced. 
-    - (b) The player selected must also agree to join the roster. If they decline, they will be removed from the OOL list for the remainder of the season.
-    - (c) The player selected will retain any restrictions that were held by the player being replaced.
-___
+  - (2) The CRC will determine an OOL for a team on a case by case basis, but is not obligated to supply an OOL for any missing player.
+  - (3) An OOL will not be supplied for teams missing players due to availability issues, who are otherwise participating normally.
+  - (4) A player that is supplied as an OOL will retain the restrictions of the player they are replacing.
+  - (5) Selection of an OOL is not available for captains veto.
+
 ### Article V - Player Restrictions
 
 #### Section A - Proper Position Restrictions
@@ -853,20 +849,25 @@ ___
 ___
 ### Article XI - Statistics
 
-#### Section A - TagPro Analytics and TagPro League (TPL)
-  - (1) TagPro Analytics:
-    - (a) Each captain and co-captain must install the script from the TagPro Analytics site.
-    - (b) Captains are responsible for submitting the "tagpro eu" from each half to the Captain's Hub of TPL.
-    - (c) TagPro eu's must be submitted to TPL within 24 hours of the match.
-  - (2) TagPro League:
-    - (a) Statistics for all leagues are kept on TagPro League.
-    - (b) Each captain will be given access to the "Captain's Hub" of TPL where they will be able to submit stats for each match.
-    - (c) CRC members will have basic access to TPL to help with stats and rosters, but the owner of TPL may be contacted about issues via the "Submit and Issue or Feature" button at the bottom of the page.
-  - (3) Saving CSVs is the responsibility of both participating teams, and any match with incomplete or late submissions are subject to penalties from the commissioners.
-  - (4) Teams are required to submit scores and tagpro eu's for all regular season and postseason games on request.
-  - (5) If teams are not able to get tagpro eu's for any reason, then a direct link to the TagPro replay will be acceptable. Keep in mind this is not ideal.
-  - (6) If at any point a half is played 3v4, or if the game is determined noncompetitive by the CRC, it runs the risk of being thrown out statistically at the discretion of the CRC.
-  - (7) If a player should receive more than the maximum number minutes for any reason, excluding overtime, their stats will be pro-rated to the maximum number of minutes.
+#### Section A - TagPro League (TPL)
+  - (1) Statistics for all leagues are kept on TagPro League (https://www.tagproleague.com/).
+  - (2) League managers will be responsible for setting up new seasons and giving TPL commissioner level access, as needed, to CRC members once setup is complete.
+  - (3) CRC members will input weekly stats, maintain current rosters and input the season's schedule.
+  - (4) Certain CRC members or community helpers may be given access to input awards, trophies and/or update the ticker.
+  - (5) The owner of TPL may be contacted about issues via the "Submit and Issue or Feature" button at the bottom of the page.
+
+#### Section B - Stat Normalization for Forfeits or Noncompetitive Games
+  - (1) If at any point a half is played 3v4, a game is forfeited or a game is determined noncompetitive by the CRC, the statistics may be thrown out or normalized at the discretion of the CRC.
+    - (a) Any determinations made will be by CRC majority vote.
+    - (b) CRC members playing in games under consideration will be forced to recuse themselves from the discussion and vote.
+    - (c) CRC determinations for stat normalization will not be available for captains veto.
+    - (d) The results of the match (win/loss, etc) will be kept.
+    - (e) Any team found to be intentionally playing in a noncompetitive manner will be subject to disciplinary action at the discretion of the CRC.
+  - (2) The following normalization styles may be used, but the CRC can use another style as appropriate:
+    - (a) Averaging game stats from other competitive games between the two teams.
+    - (b) Blanket reduction of all stats by a percentage, such as 25 or 50 percent.
+    - (c) Average player stats from other weeks of the season.
+  - (3) If a player should receive more than the maximum number minutes for any reason, excluding overtime, their stats will be pro-rated to the maximum number of minutes.
 
 ___
 ### Article XII - Votes, Vetoes, VONC’s, & Rule Changes
@@ -912,7 +913,7 @@ ___
 ___
 ### Article XIII - Appendix
   - (1) Teams are subject to punishment if their players or captains partake in any of the following: violation of the DBAD rule, spam on Discord, spam on Reddit, or any other action that breaks the NALTP rules.
-  - (2) In the event of a forfeit of a match, the wins and losses will count as usual in the standings, with the cap differential for the winning and losing team being the third-largest positive and negative cap differential for all other matches that week, respectively. If only one game is forfeited, the cap differential will be the third-largest differential for that game of the week. (Ex. If Game 2 is a forfeit, the cap diff is that of all other Game 2's for that week.)
+  - (2) In the event of a forfeit of a match, the wins and losses will count as usual in the standings, with the cap differential for the winning and losing team being the average positive and negative cap differential for all other matches that week, respectively. If only one game is forfeited, the cap differential will be the average differential for that game of the week. (Ex. If Game 2 is a forfeit, the cap diff used for averaging is that of all other Game 2's for that week.)
   - (3) The NALTP CRC may demand full access to a team's subreddit (including modmail), Discord, or other form of communication without needing to provide a reason, and shall be granted this access with speed.
   - (4) The CRC agrees that an attack against one or more of them on the subreddit, Discord, or any other public forum shall be considered an attack against them all and consequently they agree that, if such an attack occurs, each of them will assist the CRC Member or Members so attacked by taking forthwith, individually and in concert with the other CRC Members, such action as it deems necessary, including the use of armed force, to restore and maintain the security of the CRC.
   - (5) Any player who becomes banned from playing TagPro will be ineligible to play in NALTP. They may remain on the roster and resume playing when they are no longer banned from TagPro. Playing on an alternate account to avoid the ban will result in league punishment and referral to the TagPro Moderators.
