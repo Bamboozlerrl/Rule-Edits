@@ -867,7 +867,7 @@ ___
     - (a) Averaging game stats from other competitive games between the two teams.
     - (b) Blanket reduction of all stats by a percentage, such as 25 or 50 percent.
     - (c) Average player stats from other weeks of the season.
-  - (3) If a player should receive more than the maximum number minutes for any reason, excluding overtime, their stats will be pro-rated to the maximum number of minutes.
+  - (3) If a player should receive more than the maximum number of minutes for any reason, excluding overtime, their stats will be pro-rated to the maximum number of minutes.
 
 ___
 ### Article XII - Votes, Vetoes, VONC’s, & Rule Changes
