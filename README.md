@@ -139,7 +139,7 @@ ___
       - (i) At the conclusion of the season, the appointed member is retired, and that seat becomes one of the open seats in the election.
       - (ii) The appointed member does not have any term restrictions and can run for election to the CRC immediately.
   - (4) Members:
-    - (a) The Season 38 CRC will consist of TBD.
+    - (a) The Season 38 CRC will consist of Bam, fender, Russ, timmysumball and Tinderfella.
 
 #### Section B - The League Managers (LM)
   - (1) League Manager structure overview:
