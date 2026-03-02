@@ -116,17 +116,17 @@ ___
 
 #### Section A - The Committee for Rules and Coordination (CRC)
   - (1) CRC Structure Overview:
-    - (a) The CRC will consist of 5 members with equal voting power and rights.
+    - (a) The CRC will consist of 3 members with equal voting power and rights.
     - (b) At the conclusion of every season, the existing members of the CRC will be retired and eligible for re-election.
   - (2) Elections:
-    - (a) At the conclusion of the season, elections will be held to fill the five vacancies on the CRC.
+    - (a) At the conclusion of the season, elections will be held to fill the three vacancies on the CRC.
     - (b) The election will be conducted by the League Managers.
     - (c) The LM will call for election applications and allow reasonable time for people to submit them.
       - (i) Applicants will be made public to allow reasonable time for interpretation prior to the election.
       - (ii) The same list of applicants will be used for all seats.
-    - (d) The first two seats will be filled by a combined vote of the previous season’s Captains from all three tiers.
+    - (d) The first seat will be filled by a combined vote of the previous season’s Captains from all three tiers.
       - (i) The election will be a linear scoring borda count, n=1 (last place is 1 point, 2nd to last is 2, etc.) with full ranked ballots (must rank all candidates).
-      - (ii) The candidates with the two highest Borda Counts will fill the seat.
+      - (ii) The candidate with the highest Borda Count will fill the seat.
       - (iii) Captains with a team in more than one league will still receive a single vote towards the final results.
     - (e) The remaining seats will be filled by a vote of the NALTP Community.
       - (i) The NALTP Community is defined as:
@@ -228,6 +228,20 @@ ___
     - (a) See [Article IV, Section B](#section-b---drops-call-ups-free-agency) for eligibility and restrictions.
   - (5) All players are limited to one (1) name for the season, which they are required to play under in all tiers.
 
+#### Section E - Rookie Integration Officer
+  - (1) RIO Structure Overview:
+    - (a) The RIO will consist of 1 member.
+  - (2) Elections:
+    - (a) The RIO is not an elected position.
+  - (3) Vacancies:
+    - (a) If the RIO retires or steps down, the CRC will fill the position by majority vote.
+      - (i) The RIO position may be forcibly removed by following VONC rules as detailed in [Article XII - Votes, Vetoes, VONC’s, & Rule Changes](#article-xii---votes-vetoes-voncs--rule-changes)
+  - (4) Members:
+    - (a) The Season 39 RIO will be timmysumball.
+  - (5) Duties include, but are not limited to:
+    - (a) Direct reach out to all rookie signups each season to ensure they understand the league structure, rules and playing expectations.
+    - (b) Helping maintain the Competitive Rookies discord server and inviting rookies to the server.
+    - (c) Working with the LM and CRC on smurf checks and ways to improve rookie retention rates.
 ___
 ### Article III - Drafting
 
