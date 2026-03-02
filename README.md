@@ -14,6 +14,7 @@
   * [Section B - The League Managers (LM)](#section-b---the-league-managers-lm)
   * [Section C - Captains and Co-Captains](#section-c---captains-and-co-captains)
   * [Section D - Players](#section-d---players)
+  * [Section E - Rookie Integration Officer](#section-e---rookie-integration-officer)
 - [Article III - Drafting](#article-iii---drafting)
   * [Section A - General Draft Information](#section-a---general-draft-information)
   * [Section B - The Auction Drafts](#section-b---the-auction-drafts)
