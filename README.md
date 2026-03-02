@@ -134,7 +134,7 @@ ___
         - (1) Players, Non-Playing Captains and General Managers from the previous season of NALTP and
         - (2) Players signed up for the current season’s draft at the time of ballot posting whose last season of play was within the last 5 seasons of NALTP.
       - (ii) The Vote will use a Single Transferable Vote (STV) with partial ranked ballots (voters rank as many candidates as they would like). The counting method will be the Weighted Inclusive Gregory Method.
-      - (iii) The winners of the IRV will fill the third, fourth, and fifth seats.
+      - (iii) The winners of the IRV will fill the second and third seats.
   - (3) Vacancies:
     - (a) In the event of an unexpected vacancy on the CRC midseason (due to a retirement, VONC, or other issue), the remaining CRC members will appoint a replacement for the remainder of the season.
       - (i) At the conclusion of the season, the appointed member is retired, and that seat becomes one of the open seats in the election.
