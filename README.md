@@ -65,11 +65,11 @@ ___
 
 #### Section A - Resources
   - (1) NALTP signups and announcements will be facilitated via mltp.gg, the NALTP Competitive Discord and TagPro subreddit.
-    - (a) [mltp.gg](https://www.mltp.gg/?tier=majors)
+    - (a) [League Site - mltp.gg](https://www.mltp.gg/?tier=majors)
       - (i) Sign up [here](https://www.mltp.gg/signup)
     - (b) [Competitive Discord](https://discord.com/invite/JCyQaZH)
     - (c) Subreddits
-      - (i) [MLTP]((https://www.reddit.com/r/MLTP/))
+      - (i) [MLTP](https://www.reddit.com/r/MLTP/)
       - (ii) [TagPro](https://www.reddit.com/r/TagPro/)
 
 #### Section B - Leagues
