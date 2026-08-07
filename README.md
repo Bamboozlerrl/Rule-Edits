@@ -64,10 +64,13 @@ ___
 ### Article I - League Overview
 
 #### Section A - Resources
-  - (1) NALTP signups and announcements will be facilitated via the NALTP Discord and subreddit.
-    - (a) [Invite link](https://discord.com/invite/JCyQaZH)
-    - (b) [Subreddit](https://www.reddit.com/r/MLTP/)
-    - (c) Sign up by messaging "!naltp" to the TToC_BOT.
+  - (1) NALTP signups and announcements will be facilitated via mltp.gg, the NALTP Competitive Discord and TagPro subreddit.
+    - (a) [mltp.gg](https://www.mltp.gg/?tier=majors)
+      - (i) Sign up [here](https://www.mltp.gg/signup)
+    - (b) [Competitive Discord](https://discord.com/invite/JCyQaZH)
+    - (c) Subreddits
+      - (i) [MLTP]((https://www.reddit.com/r/MLTP/))
+      - (ii) [TagPro](https://www.reddit.com/r/TagPro/)
 
 #### Section B - Leagues
   - (1) NALTP will be comprised of three leagues, each with its own schedule, rule variations and set of teams.
@@ -140,7 +143,7 @@ ___
       - (i) At the conclusion of the season, the appointed member is retired, and that seat becomes one of the open seats in the election.
       - (ii) The appointed member does not have any term restrictions and can run for election to the CRC immediately.
   - (4) Members:
-    - (a) The Season 39 CRC will consist of FLY, button, and Bam.
+    - (a) The Season 40 CRC will consist of FLY, mex, Bam, Spheroid., and fender.
 
 #### Section B - The League Managers (LM)
   - (1) League Manager structure overview:
@@ -152,8 +155,8 @@ ___
   - (3) Retirement:
     - (a) No League Manager is permitted to retire from their position without naming a suitable replacement to be approved by the CRC.
   - (4) Members:
-    - (a) The League Managers for Season 39 will be Poeticalto and Cheezedoodle.
-    - (b) The League Manager Assistant for Season 39 will be Wraith (aka Phreek).
+    - (a) The League Managers for Season 40 will be Poeticalto and Cheezedoodle.
+    - (b) The League Manager Assistant for Season 40 will be Wraith (aka Phreek).
 
 #### Section C - Captains and Co-Captains
   - (1) Captaincy and Co-Captaincy structure overview:
@@ -164,8 +167,11 @@ ___
       - (ii) Non-Playing Captain (NPC): NPCs are not playing members of their rosters. Prior to the draft, NPCs will select another player from the draft board who agrees to be their preliminary pick. Preliminary picks start on their captain's roster during the auction draft, and the captain will receive TagCoins relative to the perceived skill of their preliminary pick.
       - (iii) Indirect Playing Captain (IPC): IPCs are captains that wish to be a DPC but are determined by the CRC to be too skilled to skip the draft of the league above their captaincy signup. If an IPC is drafted to a league above their captaincy signup they may elect to become a NPC or forfeit their captaincy role. If an IPC is not drafted to a league above their captaincy signup then they will be accepted as a DPC.
       - (iv) General Manager (GM): GMs are not playing members of their roster. GMs do not receive preliminary picks and each GM receives the same number of TagCoins for the draft.
-    - (d) For each team in NALTP there will be a single official Co-Captain and any number of unofficial Co-Captains to be finalized after the draft. The official co-captain may be changed at any point during the season with the notification of the CRC.
-    - (e) Co-captains are responsible for assisting the captain in team management, scrimmages, and anything else requested of them by the captain. Co-captains may be responsible for filling out forms on behalf of their captain with fair warning from the CRC.
+    - (d) Each team in NALTP will be required to have a single official Co-Captain or Co-GM (CCGM). The official CCGM may be changed at any point during the season with the notification of the CRC.
+      - (i) Each Captain or GM will be responsible to name their CCGM at least 48 hours prior to the first games.
+      - (ii) A CCGM may be named prior to the draft if they are a not signed up to play.
+      - (iii) Teams may have as many unofficial CCGMs as desired. However, they will not have official decision making power.
+    - (e) CCGMs are responsible for assisting the captain in team management, scrimmages, and anything else requested of them by the captain. CCGMs may be responsible for filling out forms on behalf of their captain with fair warning from the CRC.
   - (2) Captain duties:
     - (a) Captains are responsible for the following:
       - (i) Drafting their team,
@@ -176,17 +182,15 @@ ___
       - (vi) Organizing scrimmages,
       - (vii) Electing two members of the CRC for the following season and
       - (viii) Anything else required or requested of them by both the CRC and their team
-    - (b) Co-Captains are responsible for assisting the captain and filling in for them when they are unavailable.
-    - (c) Captains may change who their co-captain is at any time by notifying the CRC.
   - (3) Eligibility and restrictions:
     - (a) Any player not banned from NALTP or TagPro is eligible to apply for captaincy or co-captaincy unless otherwise announced by the CRC.
     - (b) Applicants for Minors captaincy who are drafted in, and at potential risk of being dropped from, Majors must apply for DEP status or submit a player with DEP status as their prelim else they accept exclusion from Minors upon being dropped.
     - (c) CRC members may not serve as captain, official co-captain, or GM in any circumstances.
-    - (d) Official Co-Captains are not permitted to be members of any team in their league other than the one they are co-captaining. If a Co-Captain should end up on any other league roster than the one they are co-captaining, they will be removed from their position as official Co-Captain.
-    - (e) Official Co-Captains may not be decided or announced prior to the draft if there is a possibility of them playing in the same league as their affiliated team as determined by the CRC.
+    - (d) Official CCGMs are not permitted to be members of any team in their league other than the one they are CCGMing. If a CCGM should end up on any other league roster than the one they are CCGMing, they will be removed from their position as official CCGM.
+    - (e) Official CCGMs may not be decided or announced prior to the draft if there is a possibility of them playing in the same league as their affiliated team as determined by the CRC.
   - (4) Selection, voting, and announcements:
     - (a) Captains and GMs will be approved by a majority vote from the CRC.
-    - (b) Co-captains do not require CRC approval as long as they are not banned or otherwise ineligible by rule.
+    - (b) CCGMs do not require CRC approval as long as they are not banned or otherwise ineligible by rule.
   - (5) Terms:
     - (a) All forms of captaincy are for a single season only.
   - (6) Mid-season vacancy.
@@ -201,25 +205,16 @@ ___
 #### Section D - Players
   - (1) Signup eligibility:
     - (a) Players who have signed up for the Major league draft and are not on a Major league roster at the end of the draft will be eligible, and automatically entered into, the Minor league draft. Similarly, players who have signed up for the Minor league draft and are not on a Minor league roster at the end of the draft will be eligible, and automatically entered into, the Novice league draft.
-      - (i) If an overqualified player indicates that they are not available on Sundays for the Majors league draft, they will not be eligible for the Minor or Novice league drafts. Players qualify for this rule if they meet any of the following criteria for their most recent season of NALTP:
-        - (1) They played the majority of their minutes in Majors league;
-        - (2) They played at least half of total available regular-season minutes in Majors league AND had a positional or total NISH of 70 or higher;
-        - (3) They played at least half of total available regular-season minutes in Minors league AND had a positional or total NISH of 90 or higher; or
-        - (4) The player is deemed by the CRC to be beyond the skill level of Minors league.
-      - (ii) If an overqualified player indicates that they are not available on Mondays for the Minor league draft, they will not be eligible for Novice league. Players qualify for this rule if they meet any of the following criteria for their most recent season of NALTP:
-        - (1) They played the majority of their minutes in Minor league;
-        - (2) They played at least half of total available regular-season minutes in Minor league AND had a positional or total NISH of 70 or higher;
-        - (3) They played at least half of total available regular-season minutes in Novice league AND had a positional or total NISH of 90 or higher; or
-        - (4) The player is deemed by the CRC to be beyond the skill level of Novice league.
-      - (iii) Players will not be permitted to switch positions to circumvent these rules.
-      - (iv) It is the responsibility of the player to confirm their eligibility for the draft.
-    - (b) Players with fewer than 110 minutes of competitive experience will be eligible to sign up for the Novice league draft even if they did not enter the Majors or Minors league drafts unless deemed too skilled by the CRC. Any other signups will be sparingly approved on a case by case basis.
+      - (i) Players indicating that they are unavailable to play on a league's default game day (Majors - Sunday, Minors - Monday) will be allowed to bypass a respective draft on a case by case basis as determined by the CRC.
+      - (ii) The Talent Evaluation Committee (TEC) will assist the CRC in making these determinations, but the final decision will be CRC vote.
+    - (b) Players with fewer than 110 minutes of competitive experience ("Rookies") will be eligible to sign up for the Novice league draft even if they did not enter the Majors or Minors league drafts. Any other signups will be sparingly approved on a case by case basis.
+      - (i) Rookie signups may be removed on a case by case basis by the CRC, with assistance from the TEC.
     - (c) Players removed from a league draft by the CRC are not eligible to enter the following lower-league drafts.
     - (d) Signups indicating zero availability on all game nights will be contacted by the CRC and removed if a conclusion cannot be reached.
     - (e) Players determined to be manipulating their value prior to the draft may be removed from the draft and/or subject to punishment in NALTP. See [Article IX, Section D](#section-d---stock-manipulation) for more information on draft stock manipulation.
     - (f) All other eligibility and restriction cases will be dealt with on a case-by-case measure through the CRC.
   - (2) Dual Eligibile Players (DEPs):
-    - (a) Players drafted to Majors or Minors may apply for DEP status no more than 48 hours after the draft in which they were claimed.
+    - (a) Players drafted to Majors or Minors may apply for DEP status during a DEP application window as determined and publicly announced by the CRC.
       - (i) DEP status will be granted by a CRC majority vote.
       - (ii) A player with DEP status is eligible for, and will be automatically enrolled in, the draft of the following tier.
     - (b) For information on mid-season DEPs please see [Article IV, Section E](#section-e---dual-eligible-players-deps).
@@ -238,7 +233,7 @@ ___
     - (a) If the RIO retires or steps down, the CRC will fill the position by majority vote.
       - (i) The RIO position may be forcibly removed by following VONC rules as detailed in [Article XII - Votes, Vetoes, VONC’s, & Rule Changes](#article-xii---votes-vetoes-voncs--rule-changes)
   - (4) Members:
-    - (a) The Season 39 RIO will be timmysumball.
+    - (a) The Season 40 RIO will be timmysumball.
   - (5) Duties include, but are not limited to:
     - (a) Direct reach out to all rookie signups each season to ensure they understand the league structure, rules and playing expectations.
     - (b) Helping maintain the Competitive Rookies discord server and inviting rookies to the server.
