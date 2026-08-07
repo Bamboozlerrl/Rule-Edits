@@ -206,7 +206,7 @@ ___
   - (1) Signup eligibility:
     - (a) Players who have signed up for the Major league draft and are not on a Major league roster at the end of the draft will be eligible, and automatically entered into, the Minor league draft. Similarly, players who have signed up for the Minor league draft and are not on a Minor league roster at the end of the draft will be eligible, and automatically entered into, the Novice league draft.
       - (i) Players indicating that they are unavailable to play on a league's default game day (Majors - Sunday, Minors - Monday) will be allowed to bypass a respective draft on a case by case basis as determined by the CRC.
-      - (ii) The Talent Evaluation Committee (TEC) will assist the CRC in making these determinations, but the final decision will be CRC vote.
+      - (ii) The Talent Evaluation Committee (TEC) will assist the CRC in making these determinations, but the final decision will be by CRC vote.
     - (b) Players with fewer than 110 minutes of competitive experience ("Rookies") will be eligible to sign up for the Novice league draft even if they did not enter the Majors or Minors league drafts. Any other signups will be sparingly approved on a case by case basis.
       - (i) Rookie signups may be removed on a case by case basis by the CRC, with assistance from the TEC.
     - (c) Players removed from a league draft by the CRC are not eligible to enter the following lower-league drafts.
@@ -255,14 +255,15 @@ ___
       - (ii) TCN = Minor league TagCoin.
       - (iii) TCA = Novice league TagCoin.
     - (b) Each team will receive a budget of TC determined by the CRC on the following criteria.
-      - (i) Leagues with GMs and no captains or prelim picks:
+      - (i) Leagues with GMs and no playing captains or prelim picks:
         - (1) Each team will receive an equal number of TC no less than 50 and no greater than 200.
-      - (ii) Leagues with captains and/or prelim picks:
+      - (ii) Leagues with playing captains and/or prelim picks:
         - (1) Each team will receive a budget of TC determined by the CRC on a case-by-case basis.
           - (aa) Potential budgets will be separated into tiers that each team can be assigned to.
           - (bb) The tier a team is placed into will be determined by the strength of the first player on the roster (i.e. DPC or prelim pick).
           - (cc) Each tier may have any number of teams assigned to it including zero teams.
     - (c) Trades, including those involving TC, are allowed during each draft.
+      - (i) Trades may not be completed that will put a team over their starting budget when considering their roster and remaining TC.
     - (d) TCM, TCN, and TCA are distinct and may not be exchanged for each other.
     - (e) Remaining TCM, TCN, and TCA are kept by the team for use in add/drop and free agency periods at the conclusion of each draft, while the value of the coins assigned to players drafted at snauction is also kept.
     - (f) TC penalties may be applied by the CRC and/or League Manager at their discretion for captains misbehaving, misusing draft tools, or otherwise impeding the flow of the draft.
@@ -313,9 +314,11 @@ ___
   - (1) Regular season:
     - (a) There will be a single trade period during the regular season with limited additional trades granted by the CRC for conduct and conflict resolution.
       - (i) The trade period for all tiers will begin at the conclusion of their respective draft and end 24 hours before the conclusion of the final add/drop or free agency period for that tier.
-    - (b) Trades may be submitted by the captain or co-captain directly to the CRC via the trading form.
-    - (c) All trades must be approved by the captain or co-captain of both teams, and can be vetoed by the CRC.
+    - (b) Trades may be submitted through the league site, mltp.gg.
+    - (c) All trades must be approved by the Captain or GM of both teams.
+      - (i) CCGMs can approved trades in the absence of the Captain or GM.
     - (d) Trades that are deemed too one-sided by the CRC may be rejected by a majority vote.
+      - (i) The TEC will provide recommendations for each trade.
     - (e) Trades involving inactive players will not be permitted. Please see [Article IV Section B](#section-b---drops--call-ups--free-agency) for more information on Gross Inactivity drops.
       - (i) Exceptions may be made at the Novice level, but will be permitted only with consideration for balancing roster sizes. Captains and GMs are expected to be aware of the activity of players involved in any trades
     - (f) Trading draft picks for future seasons is prohibited.
@@ -343,7 +346,7 @@ ___
         - (2) Add/drops may be denied by the CRC due to availability restrictions or by the individual players receiving call-ups.
       - (ii) First add/drop period:
         - (1) Add/drops will be processed on a rolling, first come, first served basis.
-          - (aa) Add/drops may be submitted to the CRC via direct messages or captains chat with an appropriate ping.
+          - (aa) Add/drop requests are made through the league site, mltp.gg.
         - (2) The CRC will deny callups on the basis of availability restrictions, intentionally poor call-ups or anything else deemed relevant by the CRC.
           - (aa) Intentionally poor call-ups will be determined case by case and will require a unanimous vote from the CRC.
         - (3) Players may not deny a call-up during the first add/drop period.
@@ -397,7 +400,7 @@ ___
         - (2) Add/drops may be denied by the CRC due to availability restrictions or by the individual players receiving call-ups.
       - (ii) First add/drop period:
         - (1) Add/drops will be processed on a rolling, first come, first served basis.
-          - (aa) Add/drops may be submitted to the CRC via direct messages or captains chat with an appropriate ping.
+          - (aa) Add/drop requests are made through the league site, mltp.gg.
         - (2) The CRC will deny callups on the basis of availability restrictions, intentionally poor call-ups or anything else deemed relevant by the CRC.
           - (aa) Intentionally poor call-ups will be determined case by case and will require a unanimous vote from the CRC.
         - (3) Players may not deny a call-up during the first add/drop period.
@@ -493,7 +496,7 @@ ___
        - (7) Captains who were playing in, and are dropped from, Minor league are ineligible for Novice league unless their team possesses a potential TCA bid large enough to guarantee their acquisition at the time of the primary free agency period.
       - (ii) Additional free agency periods:
         - (1) Only true rookies will be eligible for additional free agency periods.
-        - (2) Signups may be denied for players assessed above a Novice league level by the CRC.
+        - (2) Signups may be denied for players assessed above a Novice league level by the CRC, with the assistance of the TEC.
         - (3) Players acquired in additional free agency periods will be eligible to begin playing in any upcoming Novice league games regardless of turnaround.
   - (4) Extra-league drops:
     - (a) Gross Inactivity (GI):
@@ -536,6 +539,8 @@ ___
     - (d) Hot-subs
       - (i) Hot-subs will not be differentiated from loans and must follow the same procedures as any loan unless prior approval is granted by the CRC.
         - (1) The CRC may retroactively label a loan as a hot-sub for players who play <40% of a match (less than 2 out of 5 games). If labeled as a hot-sub the loan will be disregarded for future loan eligibility.
+    - (e) Loan requests are made through the league site, mltp.gg.
+    - (f) Failure to submit a loan request before the player appears in a game may result in a forfeit, standings point deduction or other punishment as determined on a case by case basis by the CRC.
   - (2) Novice league:
     - (a) If a Novice league team cannot field a full team for a week’s game, they may elect to loan a player from another team.
       - (i) In extreme cases, if no player can be found, the CRC may approve a loan for a player not currently rostered to an NALTP team.
