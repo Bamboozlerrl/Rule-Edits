@@ -200,7 +200,7 @@ ___
       - (i) In the case of captains who step down, this option will require mutual agreement with the former and the newly instated captain.
       - (ii) In the case of captains who are removed by the CRC, this option may be activated at will by the former captain.
       - (iii) In extreme cases, if the final period has concluded, the CRC may initiate an extra window to accomodate.
-    - (d) If a former playing captain is dropped, their old team may be rewarded with priority in the waiver wire or call-ups or replacement players not rostered in any league.
+    - (d) If a former playing captain is dropped, their old team may be rewarded with priority in the add/drop periods or call-ups or replacement players not rostered in any league.
 
 #### Section D - Players
   - (1) Signup eligibility:
@@ -345,7 +345,7 @@ ___
         - (1) Upon being called up, a player receives official DEP status equal to that awarded in preseason.
         - (2) Add/drops may be denied by the CRC due to availability restrictions or by the individual players receiving call-ups.
       - (ii) First add/drop period:
-        - (1) Add/drops will be processed on a rolling, first come, first served basis.
+        - (1) Add/drops will be processed by bid amount, as described below in (iii).
           - (aa) Add/drop requests are made through the league site, mltp.gg.
         - (2) The CRC will deny callups on the basis of availability restrictions, intentionally poor call-ups or anything else deemed relevant by the CRC.
           - (aa) Intentionally poor call-ups will be determined case by case and will require a unanimous vote from the CRC.
@@ -383,7 +383,8 @@ ___
           - (cc) Players dropped from Majors during the second add/drop period will not be eligible for Novice free agency if they have played any minutes in Majors that season.
         - (3) Called up players:
           - (aa) Called up players may decline a call-up. In doing so they automatically decline any future call-ups or loans for the remainder of the season.
-            - (I) If a player believes they were called up maliciously for any reason, they may appeal to the CRC to regain call-up and loan eligibility.
+            - (I) A declined callup is only official if the callup is officially submitted to the CRC and the player declines it.
+            - (II) If a player believes they were called up maliciously for any reason, they may appeal to the CRC to regain call-up and loan eligibility.
     - (d) Free agency periods:
       - (i) There will be no free agency periods in the Major league.
   - (2) Minor league:
@@ -399,7 +400,7 @@ ___
         - (1) Upon being called up, a player receives official DEP status equal to that awarded in preseason.
         - (2) Add/drops may be denied by the CRC due to availability restrictions or by the individual players receiving call-ups.
       - (ii) First add/drop period:
-        - (1) Add/drops will be processed on a rolling, first come, first served basis.
+        - (1) Add/drops will be processed by bid amount, as described below in (iii).
           - (aa) Add/drop requests are made through the league site, mltp.gg.
         - (2) The CRC will deny callups on the basis of availability restrictions, intentionally poor call-ups or anything else deemed relevant by the CRC.
           - (aa) Intentionally poor call-ups will be determined case by case and will require a unanimous vote from the CRC.
@@ -487,9 +488,9 @@ ___
     - (f) Free agency player eligibility:
       - (i) Primary free agency period:
        - (1) Minor league drops in the second Minors add/drop period will be eligible for Novice free agency.
-       - (2) True rookies will be eligible for free agency unless assessed above a Novice league level by the CRC.
+       - (2) True rookies will be eligible for free agency unless assessed above a Novice league level by the CRC, with assistance from the TEC.
         - (aa) A true rookie is defined as any player with fewer than 110 minutes played in any official North American Capture the Flag league.
-       - (3) Players whose last competitive season was more than 6 seasons prior in accordance with the NALTP calendar will be accepted case-by-case for those not assessed above a Novice league level by the CRC.
+       - (3) Players whose last competitive season was more than 6 seasons prior in accordance with the NALTP calendar will be accepted case-by-case for those not assessed above a Novice league level by the CRC, with assistance from the TEC.
        - (4) Major league drops who also become Minor league drops will not be eligible for free agency unless they have a total of 0 minutes played in the Major league.
        - (5) Players acquired in the primary free agency period will be eligible to begin playing in week 4 Novice league games.
        - (6) Eligible co-captains seeking entry into Novice league must agree to enter into the free agency process, and are thus stripped of their title unless claimed by the team in which they are a co-captain. If a co-captain refuses to play for another team, they may face removal from the league on the grounds of collusion with their original team. Free agency results may also be adjusted accordingly.
@@ -503,7 +504,7 @@ ___
       - (i) At any point in the regular season, captains may appeal to the CRC to have a player removed from their roster for Gross Inactivity.
         - (1) Gross inactivity is to be determined on a case by case basis by the CRC.
         - (2) Players drafted in the snake draft will not be eligible to be GI dropped.
-        - (3) All GI drops and any waiver compensation will be announced together shortly before the add/drop or free agency period of each league.
+        - (3) All GI drops and any compensation will be announced together shortly before the add/drop or free agency period of each league.
       - (ii) Following a GI drop request, the player in question will be messaged by the CRC in order to verify the situation and gather any additional information.
       - (iii) After conferring with both the captain and the player to be dropped, the CRC will determine whether the player is to be dropped, held, or forcibly traded.
       - (iv) A player dropped for gross inactivity will be ineligible to be added by any team in any league for the remainder of the season.
@@ -552,7 +553,7 @@ ___
   - (2) Former captains may activate an option to be released in an add/drop period or into free agency within their rostered league.
     - (a) In the case of captains who step down, this option will require mutual agreement by the former and the newly instated captain.
     - (b) In the case of captains who are removed by the CRC, this option may be activated at will by the former captain.
-  - (3) If a former captain is released in an add/drop period or placed into free agency, their old team may be given call-up priority or granted a number of positions determined by the CRC in the waiver wire as compensation.
+  - (3) If a former captain is released in an add/drop period or placed into free agency, their old team may be given call-up priority or other compensation at the CRC's discretion.
 
 #### Section E - Dual Eligible Players (DEPs)
   - (1) By accepting a call-up offer, a player is assigned DEP status by default and would continue playing in both leagues for the remainder of the season.
@@ -562,23 +563,15 @@ ___
 #### Section F - Out of League Substitutions (OOLs)
   - (1) An OOL may be requested by a team when a captain or player is suspended, G.I. dropped or is otherwise unable or unwilling to complete the season.
   - (2) The CRC will determine an OOL for a team on a case by case basis, but is not obligated to supply an OOL for any missing player.
+    - (a) The TEC will help supply recommendations for appropriate OOLs for all OOL situations.
   - (3) An OOL will not be supplied for teams missing players due to availability issues, who are otherwise participating normally.
-  - (4) A player that is supplied as an OOL will retain the restrictions of the player they are replacing.
+  - (4) A player that is supplied as an OOL may retain the restrictions of the player they are replacing, at the discretion of the CRC and TEC.
   - (5) Selection of an OOL is not available for captains veto.
 
 ### Article V - Player Restrictions
 
 #### Section A - Proper Position Restrictions
-  - (1) In the Major and Minor leagues, proper positions will be enforced for all players who list that they will play only one position ("Offense only" or "Defense only") in their signup.
-    - (a) These restrictions will be communicated to the player and all captains prior to the relevant draft, with the ability to make changes pre-draft.
-    - (b) A proper position indicates the side of the map a player will default to when there are no external influences on their decision making. Players with a proper position are not required to adhere to rigid guidelines and may often find themselves 'outside' their position when doing so is the best strategical play available to them.
-    - (c) At their discretion the CRC may deem individual players ineligible for proper positions, in which case their signup will be locked as eligible for both positions.
-      - (i) Any player who is ruled ineligible for a proper position may be removed from the draft entirely if the CRC determines that they are continuing to use positional preferences to manipulate their draft stock.
-  - (2) In Novice league, proper positions for offense or defense will only be enforced if the player's most recent season in the position opposite their current signup resulted in a positional NISH of 70 or greater.
-    - (a) Examples:
-      - (i) A defender earns the 70 DNISH in the previous season and signs up with an offensive proper position. The position will be enforced.
-      - (ii) A defender earns the 70 DNISH in the previous season and signs up with a defensive proper position. The position will not be enforced.
-    - (b) If the player has never played a season where their primary position was the opposite position from their current signup, no restriction will be applied.
+  - (1) There will be no proper positions or positional restrictions in NALTP.
 
 #### Section B - Scheduling Restrictions
   - (1) The CRC may enforce schedule restrictions on a player commensurate with the availability they indicate in their signup comments.
@@ -586,6 +579,8 @@ ___
     - (b) Minute restrictions will be determined by subtracting the number of weeks a player will miss multipled by 50 from the total number of available minutes in the given season.
       - (i) Ex: If a player is missing 1 week in a 6 week season, they will be given a 250 minute restriction (300-(1x50)).
       - (ii) Minute restrictions are not linked to the specific week(s) a player is missing. If the player's conflict is resolved the restriction will still apply, but their captain may choose to play them and fulfill the restriction by sitting them a different week.
+  - (2) Scheduling restrictions will not be applied or enforced in the Novice league.
+  - (3) Players who indicate that they will miss a majority of playoffs in their signup will have their signup removed.
 
 #### Section C - Microphone Restrictions
   - (1) In the Major and Minor leagues, microphone restrictions will be enforced on all players who list that they will not use a microphone to communicate during the season.
@@ -608,10 +603,9 @@ ___
 #### Section A - Match Scheduling
   - (1) At the beginning of the season and after the draft, each captain will be asked to submit their team’s default game time.
     - (a) Submitted times must fall between 8:30 PM and 10:30 PM Eastern Time or they will be adjusted to match these boundaries.
+    - (b) Submitted times are also limited to half hour intervals between the earliest and latest times in (a).
   - (2) The default gametime will be the average of the two teams’ default game times.
     - (a) Example: Team A’s default gametime is 8:30 PM ET. Team B’s default gametime is 10 PM ET. By default, this match will begin at 9:15 PM ET.
-    - (b) Default times are rounded down to the nearest minute.
-      - (i) Example: Team A's default time is 8:30 PM ET. Team B's default time is 9:45 PM ET. By default, this match will begin at 9:07 PM ET.
   - (3) Default days
     - (a) Major league games will take place on Sunday nights.
     - (b) Minor league games will take place on Monday nights.
@@ -631,7 +625,7 @@ ___
       - (iii) Overtime set to on;
         - (1) Overtime respawn increment: Disabled;
         - (2) Overtime bonus Juke Juices: Disabled;
-      - (iv) Mercy rule disabled;
+      - (iv) Mercy rule enabled to +8 Capture Mercy;
       - (v) Acceleration set to 100%;
       - (vi) Top speed set to 100%;
       - (vii) Bounciness set to 100%;
@@ -640,11 +634,12 @@ ___
       - (x) Bomb respawn time set to 30 seconds;
       - (xi) Powerup respawn time set to 1 minute;
       - (xii) Powerup delay set to 60 seconds;
-      - (xiii) Last Possession Clutch Time: Enabled Winnable Only;
-      - (xiv) Kissing Flag Carriers: Disabled;
-      - (xv) Userscripts: Disabled;
-      - (xvi) Respawn Warnings: Disabled; and
-      - (xvii) Single World Joiner disabled and set to default server.
+      - (xiii) Powerup: Tagpro Duration set to 15 seconds;
+      - (xiv) Last Possession Clutch Time: Enabled Winnable Only;
+      - (xv) Kissing Flag Carriers: Disabled;
+      - (xvi) Userscripts: Disabled;
+      - (xvii) Respawn Warnings: Disabled; and
+      - (xviii) Region set to US Central.
     - (d) Server settings:
       - (i) At any point during or before a series, both captains may agree to play any of their games on a server other than the default. Either captain may elect to return to the default servers up until the match begins (or play resumes, if the agreement is mid-match)--at that point the servers are locked with the final agreement reached unless both captains agree to change them again.
       - (ii) All games will be set to Chicago by default. If Chicago is the only server in the central region, games are to be launched with the regional selection "Central". In the event that multiple central locations existing simultaneously, the Chicago server with the lowest associated number will be considered the default (e.g. Chicago1).
@@ -748,7 +743,7 @@ ___
       - (iv) The CRC may assess caps, standings points, or game penalties in matches where a timeout is believed to have given either team an advantage.
         - (1) A team returning to a 4v4 match is not considered gaining an advantage.
     - (c) Inappropriate timeouts:
-      - (i) If a team calls for a time out when they are not eligible to, the CRC may enforce forfeits, standings point deductions, or waiver wire penalties at their discretion.
+      - (i) If a team calls for a time out when they are not eligible to, the CRC may enforce forfeits, standings point deductions, or other penalties at their discretion.
 
 #### Section F - Substitutions
   - (1) Any eligible players may be substituted between games so long as they will not otherwise conflict with the rulebook at the conclusion of the upcoming or in-progress game. Please see [Article IV Section C](#section-c---loans) for more information on loans and hot-subs.
@@ -779,7 +774,7 @@ ___
     - (a) Players who are not actively playing are considered “Non-Players” for the game.
     - (b) Mid-game substitutes are permitted to begin talking in a voice channel once they have joined the game. The player being replaced must stop talking in the voice channel at the same time.
   - (2) Non-Players:
-    - (a) For the duration of the game all microphones must be muted. Failure to mute may result in priority or waiver wire penalties, point deductions or forfeiture at the discretion of the CRC.
+    - (a) For the duration of the game all microphones must be muted. Failure to mute may result in standings points deductions or forfeiture at the discretion of the CRC.
     - (b) Screen sharing via discord will also not be permitted for non-players.
     - (c) Players from teams other than the team using a voice channel may face disciplinary action or have their team penalized for unmuting during a game.
     - (d) One Captain or official Co-Captain per team is allowed to spectate and make in-game comments during the regular season Novice league matches to help develop Novice league level of play. They may not communicate information such as powerup/boost/bomb timers, player locations on the map, etc. This does not continue into the playoffs.
@@ -826,7 +821,7 @@ ___
     - (b) Responsibility lies solely with the player to stay informed of any prohibited scripts on production servers.
   - (3) Cheating includes, but is not limited to: smurfing within the league, zoom-out scripts, and non-playing teammates communicating with playing teammates.
     - (a) Smurfing: The act of playing or signing up under a different name than a player's most well known name, without disclosing that name in the signup. A player's name on TagPro League is a good example of their most well known name.
-    - (b) Impersonation: All players will be expected to play under the registered name that they used in their signup. Please take this into account when submitting your signup. Failure to comply when requested may result in penalties, including but not limited to team waiver wire penalties, team point deductions and suspension from the league.
+    - (b) Impersonation: All players will be expected to play under the registered name that they used in their signup. Please take this into account when submitting your signup. Failure to comply when requested may result in penalties such as standings points deductions and/or suspension from the league.
       - (i) Failure to comply during the playoffs may result in forfeiture.
 
 #### Section B - Scripts
