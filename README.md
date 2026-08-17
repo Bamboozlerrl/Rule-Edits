@@ -212,7 +212,8 @@ ___
     - (c) Players removed from a league draft by the CRC are not eligible to enter the following lower-league drafts.
     - (d) Signups indicating zero availability on all game nights will be contacted by the CRC and removed if a conclusion cannot be reached.
     - (e) Players determined to be manipulating their value prior to the draft may be removed from the draft and/or subject to punishment in NALTP. See [Article IX, Section D](#section-d---stock-manipulation) for more information on draft stock manipulation.
-    - (f) All other eligibility and restriction cases will be dealt with on a case-by-case measure through the CRC.
+    - (f) Players who are banned from joining the Competitive TagPro Discord Server will not be eligible to sign up for NALTP.
+    - (g) All other eligibility and restriction cases will be dealt with on a case-by-case measure through the CRC.
   - (2) Dual Eligibile Players (DEPs):
     - (a) Players drafted to Majors or Minors may apply for DEP status during a DEP application window as determined and publicly announced by the CRC.
       - (i) DEP status will be granted by a CRC majority vote.
