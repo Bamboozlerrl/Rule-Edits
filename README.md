@@ -351,7 +351,7 @@ ___
       - (i) CCGMs can approved trades in the absence of the Captain or GM.
     - (d) Trades that are deemed too one-sided by the CRC may be rejected by a majority vote.
       - (i) The TEC will provide recommendations for each trade.
-    - (e) Trades involving inactive players will not be permitted. Please see [Article IV Section B](#section-b---drops--call-ups--free-agency) for more information on Gross Inactivity drops.
+    - (e) Trades involving inactive players will not be permitted. Please see [Article IV Section B](#section-b---drops,-call-ups,-free-agency) for more information on Gross Inactivity drops.
       - (i) Exceptions may be made at the Novice level, but will be permitted only with consideration for balancing roster sizes. Captains and GMs are expected to be aware of the activity of players involved in any trades
     - (f) Trading draft picks for future seasons is prohibited.
     - (g) Trades involving add/drop priority are prohibited.
