@@ -15,6 +15,7 @@
   * [Section C - Captains and Co-Captains](#section-c---captains-and-co-captains)
   * [Section D - Players](#section-d---players)
   * [Section E - Rookie Integration Officer](#section-e---rookie-integration-officer)
+  * [Section F - Talent Evaluation Committee](#section-f---talent-evaluation-committee)
 - [Article III - Drafting](#article-iii---drafting)
   * [Section A - General Draft Information](#section-a---general-draft-information)
   * [Section B - The Snauction Drafts](#section-b---the-snauction-drafts)
@@ -229,7 +230,7 @@ ___
   - (1) RIO Structure Overview:
     - (a) The RIO will consist of 1 member.
   - (2) Elections:
-    - (a) The RIO is not an elected position.
+    - (a) The RIO is not an elected position, it is appointed by the CRC.
   - (3) Vacancies:
     - (a) If the RIO retires or steps down, the CRC will fill the position by majority vote.
       - (i) The RIO position may be forcibly removed by following VONC rules as detailed in [Article XII - Votes, Vetoes, VONC’s, & Rule Changes](#article-xii---votes-vetoes-voncs--rule-changes)
@@ -239,6 +240,35 @@ ___
     - (a) Direct reach out to all rookie signups each season to ensure they understand the league structure, rules and playing expectations.
     - (b) Helping maintain the Competitive Rookies discord server and inviting rookies to the server.
     - (c) Working with the LM and CRC on smurf checks and ways to improve rookie retention rates.
+   
+#### Section F - Talent Evaluation Committee
+  - (1) TEC Structure Overview:
+    - (a) The TEC will consist of an unlimited amount of members.
+    - (b) TEC members will persist through seasons until they decide to step down or are removed by majority CRC vote.
+  - (2) Elections:
+    - (a) A TEC position is not an elected position, it is chosen by the CRC by majority vote.
+    - (b) Applications will be published at the beginning of each off season by the CRC.
+    - (c) Positions may be added or removed at any time during the preseason, regular season or postseason, as needed.
+  - (3) Eligibility
+    - (a) All community members (CRC, LM, GM, Player, etc) are eligible to apply for a TEC position.
+    - (b) Persons banned from TagPro and/or NALTP are not eligible to apply for a TEC position.
+  - (4) Vacancies:
+    - (a) Vacancies do not require replacement. Therefore, any member stepping down or being removed will not need to be immediately replaced.
+  - (5) Duties:
+    - (a) TEC members will provide an assessment for:
+      - (i) Dual Eligible Player (DEP) applications
+      - (ii) TagCoin Adjusted Captain (TCAC) evaluations
+      - (iii) Trades
+      - (iv) Out Of League Substitutions (OOL)
+      - (v) Rookie free agency eligibility
+      - (vi) Draft tier skipping due to game-day availability issues
+      - (vii) Any other player talent related decision as directed by the CRC
+    - (b) Assessments will be made privately by each member, without discussion with other members.
+    - (c) Assessments will be submitted via a CRC supplied Google Form. 
+    - (d) Discretion is expected of each member.
+      - (i) Members shall not discuss any assessment with any other person with the exception of current CRC members.
+      - (ii) Members caught or suspected of leaking potential decisions will be removed.
+      - (iii) Members will not announce themselves as members of the TEC, unless explicitly told to do so by the CRC.
 ___
 ### Article III - Drafting
 
