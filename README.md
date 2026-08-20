@@ -604,7 +604,7 @@ ___
 #### Section A - Proper Position Restrictions
   - (1) There will be no proper positions or positional restrictions in NALTP.
 
-#### Section B - Scheduling Restrictions
+#### Section B - Availability Restrictions
   - (1) The CRC may enforce schedule restrictions on a player commensurate with the availability they indicate in their signup comments.
     - (a) These restrictions will be communicated to the player and all captains prior to the relevant draft, with the ability to make changes pre-draft.
     - (b) Minute restrictions will be determined by subtracting the number of weeks a player will miss multipled by 50 from the total number of available minutes in the given season.
@@ -626,7 +626,7 @@ ___
   - (1) For each tier, the CRC will be responsible for selecting maps by a method of their own choosing.
 
 #### Section B - Playoffs
-  - (1) All maps from the regular season will be eligible for pick/ban in playoffs.
+  - (1) All maps from the regular season will be eligible for pick/ban in playoffs, unless otherwise specified by the CRC.
 
 ___
 ### Article VII - Matches
