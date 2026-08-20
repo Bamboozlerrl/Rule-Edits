@@ -225,6 +225,7 @@ ___
   - (4) Free agency eligibility and restrictions:
     - (a) See [Article IV, Section B](#section-b---drops-call-ups-free-agency) for eligibility and restrictions.
   - (5) All players are limited to one (1) name for the season, which they are required to play under in all tiers.
+  - (6) All players must disclose their TagPro ranked account name, if it differs from their signup name, to the CRC for ranked ELO display purposes. Ranked account names will not be disclosed to the public. Players who refuse will be removed from the draft.
 
 #### Section E - Rookie Integration Officer
   - (1) RIO Structure Overview:
@@ -785,6 +786,20 @@ ___
     - (c) The substitute can be in the "Spectator" slot and can be listening in on Discord, but they must be muted until the substitution is made.
     - (d) If a substituting team has more than four active players for an extensive amount of time, the team may be assessed a penalty determined by the CRC.
     - (e) If a player is unable to leave the match, an inactive fifth ball may remain in play, provided it is not in a spot that disrupts play. If the inactive ball is in such a location for an extensive amount of time, the four active players must attempt to move the inactive player to a less disruptive spot. Teams with a fifth inactive ball that disrupts play may be assessed a penalty determined by the CRC.
+  - (3) In the Novice league, GMs are expected to substitute players between games equally, to help balance the skill level in each game, when both teams have more than 4 active players for the match.
+    - (a) Each team should include the same amount of "starting players" and "bench players" during a game, where possible.
+      - (i) Starting players are defined as the 4 players who have played the most minutes during the season at the time of the matchup.
+        - (1) If no games have been played, starting players are defined as the 4 players drafted during the snauction.
+      - (ii) Bench players are defined as the remaining rostered players that aren't included in (i).
+      - (iii) Teams are not required to go beyond the minute minimums as defined in [Article VII Section D](#section-c---minute-minimums-and-maximums), regardless of the other team's substitutions.
+    - (b) GMs should discuss their player rotation in advance of the matchup to align their substitutions and sustain a normal flow of games, when possible.
+    - (c) Examples:
+      - (i) Teams A and B both have 6 active players.
+        - (1) Game 1 is all starters for both teams. Game 2, Team A substitutes bench player 1, therefore Team B is expected to substitute bench player 1 or 2 for this game. Game 3, both teams continue with 1 bench player and 3 starters, though they may change which starters and bench players are participating. Game 4, Team A substitutes bench player 2, therefore Team B is expected to continue to have a bench player in during this game. Game 5, both teams continue with 1 bench player and 3 starters, though they may change which starters and bench players are participating.
+      - (ii) Team A has 5 active players and team B has 6 active players.
+        - (1) Game 1 is all starters for both teams. Game 2, Team B substitutes bench player 1, therefore Team A is expected to substitute their only bench player for this game. Game 3, team B substitutes bench player 2, therefore Team A is expected to leave their only bench player in for this game. Game 4, Team B continues with substitute player 2, however, Team A is no longer required to match substitutes due to the minute minimums rules (they may leave their substitute in or bring their starter back). Game 5, Team B brings bench player 1 back, but Team A is still not required to match the substitute.
+      - (iii) Teams A and B both have 6 active players.
+        - (1) Game 1 is all starters for both teams. Game 2, Team A substitutes bench players 1 and 2, therefore Team B is expected to substitute both of their bench players for this game. Game 3, both teams continue with 2 bench player and 2 starters, though they may change which starters are participating. Game 4, both teams return to 4 starters. Game is all starters for both teams.
 
 #### Section G - Game Start Time Rules, Forfeits
   - (1) Either team may share the group link to the other team whenever they are ready.
