@@ -29,7 +29,7 @@
   * [Section F - Out of League Substitutions (OOLs)](#section-f---Out-of-League-Substitutions-OOLs)
 - [Article V - Player Restrictions.](#article-v---player-restrictions)
   * [Section A - Proper Position Restrictions](#section-a---proper-position-restrictions)
-  * [Section B - Scheduling Restrictions](#section-b---scheduling-restrictions)
+  * [Section B - Availability Restrictions](#section-b---availability-restrictions)
   * [Section C - Microphone Restrictions](#section-c---microphone-restrictions)
 - [Article VI - Maps](#article-vi---maps)
   * [Section A - Map Selection](#section-a---map-selection)
