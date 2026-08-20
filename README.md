@@ -149,7 +149,7 @@ ___
 #### Section B - The League Managers (LM)
   - (1) League Manager structure overview:
     - (a) The League Managers will consist of at least two members as decided by the CRC and/or current League Managers.
-    - (b) The League Managers are responsible for maintaining league structure including, but not limited to, signups, the big board, statistics collection, awards voting, and TagProLeague in addition to maintaining the information hub, schedule, competitive discord, logos and jerseys, and rulebook in conjunction with the CRC.
+    - (b) The League Managers are responsible for maintaining league structure including, but not limited to, mltp.gg, awards voting, TagProLeague, information hub, schedule, competitive discord, logos and jerseys, and rulebook in conjunction with the CRC.
       - (i) The NALTP CRC may demand full access to any league administrative tools as noted above, as well as the TToC_Bot and any other tool deemed appropriate, to ensure smooth facilitation of the league.
   - (2) Elections:
     - (a) The League Manager role is not an elected position.
@@ -634,7 +634,7 @@ ___
 #### Section A - Match Scheduling
   - (1) At the beginning of the season and after the draft, each captain will be asked to submit their team’s default game time.
     - (a) Submitted times must fall between 8:30 PM and 10:30 PM Eastern Time or they will be adjusted to match these boundaries.
-    - (b) Submitted times are also limited to half hour intervals between the earliest and latest times in (a).
+    - (b) Submitted times are limited to half hour intervals between the earliest and latest times in (a).
   - (2) The default gametime will be the average of the two teams’ default game times.
     - (a) Example: Team A’s default gametime is 8:30 PM ET. Team B’s default gametime is 10 PM ET. By default, this match will begin at 9:15 PM ET.
   - (3) Default days
@@ -710,7 +710,7 @@ ___
         - (3) Overtime set to on;
           - (aa) Overtime respawn increment: Disabled;
           - (bb) Overtime bonus Juke Juices: Disabled;
-        - (4) Mercy rule disable;
+        - (4) Mercy rule disabled;
         - (5) Acceleration set to 100%;
         - (6) Top speed set to 100%;
         - (7) Bounciness set to 100%;
@@ -719,11 +719,12 @@ ___
         - (10) Bomb respawn time set to 30 seconds;
         - (11) Powerup respawn time set to 1 minute;
         - (12) Powerup delay set to 60 seconds;
-        - (13) Last Possession Clutch Time: Enabled Winnable Only;
-        - (14) Kissing Flag Carriers: Disabled;
-        - (15) Userscripts: Disabled;
-        - (16) Respawn Warnings: Disabled; and
-        - (17) Single World Joiner disabled and set to default server.
+        - (13) Powerup: Tagpro Duration set to 15 seconds;
+        - (14) Last Possession Clutch Time: Enabled Winnable Only;
+        - (15) Kissing Flag Carriers: Disabled;
+        - (16) Userscripts: Disabled;
+        - (17) Respawn Warnings: Disabled; and
+        - (18) Region set to US Central.
     - (c) Server settings:
       - (i) Identical to regular season settings.
 
