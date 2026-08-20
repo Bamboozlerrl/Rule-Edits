@@ -791,7 +791,7 @@ ___
       - (i) Starting players are defined as the 4 players who have played the most minutes during the season at the time of the matchup.
         - (1) If no games have been played, starting players are defined as the 4 players drafted during the snauction.
       - (ii) Bench players are defined as the remaining rostered players that aren't included in (i).
-      - (iii) Teams are not required to go beyond the minute minimums as defined in [Article VII Section D](#section-c---minute-minimums-and-maximums), regardless of the other team's substitutions.
+      - (iii) Teams are not required to go beyond the minute minimums as defined in [Article VII Section D](#section-d---minute-minimums-and-maximums), regardless of the other team's substitutions.
     - (b) GMs should discuss their player rotation in advance of the matchup to align their substitutions and sustain a normal flow of games, when possible.
     - (c) Examples:
       - (i) Teams A and B both have 6 active players.
