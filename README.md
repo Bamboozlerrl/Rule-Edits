@@ -184,14 +184,15 @@ ___
       - (vii) Electing two members of the CRC for the following season and
       - (viii) Anything else required or requested of them by both the CRC and their team
   - (3) Eligibility and restrictions:
-    - (a) Any player not banned from NALTP or TagPro is eligible to apply for captaincy or co-captaincy unless otherwise announced by the CRC.
+    - (a) Any player not banned from NALTP or TagPro is eligible to apply for captaincy or CCGM unless otherwise announced by the CRC.
     - (b) Applicants for Minors captaincy who are drafted in, and at potential risk of being dropped from, Majors must apply for DEP status or submit a player with DEP status as their prelim else they accept exclusion from Minors upon being dropped.
-    - (c) CRC members may not serve as captain, official co-captain, or GM in any circumstances.
+    - (c) CRC members may not serve as captain or CCGM in any circumstances.
     - (d) Official CCGMs are not permitted to be members of any team in their league other than the one they are CCGMing. If a CCGM should end up on any other league roster than the one they are CCGMing, they will be removed from their position as official CCGM.
     - (e) Official CCGMs may not be decided or announced prior to the draft if there is a possibility of them playing in the same league as their affiliated team as determined by the CRC.
   - (4) Selection, voting, and announcements:
     - (a) Captains and GMs will be approved by a majority vote from the CRC.
     - (b) CCGMs do not require CRC approval as long as they are not banned or otherwise ineligible by rule.
+      - (i) The CRC reserves the right to deny a CCGM appointment at their discretion.
   - (5) Terms:
     - (a) All forms of captaincy are for a single season only.
   - (6) Mid-season vacancy.
@@ -225,6 +226,7 @@ ___
   - (4) Free agency eligibility and restrictions:
     - (a) See [Article IV, Section B](#section-b---drops-call-ups-free-agency) for eligibility and restrictions.
   - (5) All players are limited to one (1) name for the season, which they are required to play under in all tiers.
+    - (a) Players are not allowed to impersonate or play under another player's exact name (including a historical name from past seasons), whether or not they own the reserved name.
   - (6) All players must disclose their TagPro ranked account name, if it differs from their signup name, to the CRC for ranked ELO display purposes. Ranked account names will not be disclosed to the public. Players who refuse will be removed from the draft.
 
 #### Section E - Rookie Integration Officer
