@@ -697,15 +697,7 @@ ___
             - (I) At any point during the Pick/Ban either team may choose to select a color order (assign their team to Red or Blue for games 1/3/5/7) instead of selecting a map. After this is done once by either team neither team may use this option again.
             - (II) At any point during the Pick/Ban, either team may choose to ban one map instead of selecting a map. This can be done as many times as mathematically possible until there are 7 eligible maps.
         - (2) All playoff matches require pick/bans.
-        - (3) Pick/bans must be completed prior to the matchup, at an agreed upon time by captains.
-        - (4) Captains may agree to do their pick/ban "on stream" or "in group". These have the same meaning.
-          - (aa) The CRC must be notified at least 24 hours in advance so that they may provide someone to oversee the pick/ban process.
-          - (bb) The pick/ban is now subject to the following rules:
-            - (I) The pick/ban will start at the designated default time for the matchup and is now considered the start of the matchup.
-            - (II) The pick/ban will occur in the match's group link.
-            - (III) The pick/ban is now subject to the rules in [Section G - Game Start Time Rules, Forfeits](#section-g---game-start-time-rules-forfeits).
-            - (IV) A turn may not last longer than 30 seconds.
-            - (V) If a turn lasts longer than 30 seconds, the other team may submit another pick. This resets the timer for the team that was skipped to 30 seconds.
+        - (3) Pick/bans must be completed prior to the matchup and are due to be submitted to the CRC no later than 10 minutes prior to the default matchup start time, unless otherwise agreed upon with the CRC.
     - (b) Game settings:
       - (i) Games 1-7:
         - (1) Capture limit set to none;
