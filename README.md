@@ -254,7 +254,7 @@ ___
     - (c) Positions may be added or removed at any time during the preseason, regular season or postseason, as needed.
   - (3) Eligibility
     - (a) All community members (CRC, LM, GM, Player, etc) are eligible to apply for a TEC position.
-    - (b) Persons banned from TagPro and/or NALTP are not eligible to apply for a TEC position.
+    - (b) Persons banned from TagPro and/or NALTP are not eligible to apply for a TEC position, unless otherwise given an exception by the CRC.
   - (4) Vacancies:
     - (a) Vacancies do not require replacement. Therefore, any member stepping down or being removed will not need to be immediately replaced.
   - (5) Duties:
