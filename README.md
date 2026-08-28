@@ -198,11 +198,6 @@ ___
   - (6) Mid-season vacancy.
     - (a) If a captain or GM must step down from their position, or is removed by CRC ruling, a replacement will be determined by the CRC.
     - (b) Playing captains who step down or are removed from their position may not be traded.
-    - (c) Former playing captains may activate an option to be dropped in the next period.
-      - (i) In the case of captains who step down, this option will require mutual agreement with the former and the newly instated captain.
-      - (ii) In the case of captains who are removed by the CRC, this option may be activated at will by the former captain.
-      - (iii) In extreme cases, if the final period has concluded, the CRC may initiate an extra window to accomodate.
-    - (d) If a former playing captain is dropped, their old team may be rewarded with priority in the add/drop periods or call-ups or replacement players not rostered in any league.
 
 #### Section D - Players
   - (1) Signup eligibility:
@@ -584,10 +579,6 @@ ___
 
 #### Section D - Captain Specific Roster Changes
   - (1) Playing captains who step down or are removed from their position may not be traded.
-  - (2) Former captains may activate an option to be released in an add/drop period or into free agency within their rostered league.
-    - (a) In the case of captains who step down, this option will require mutual agreement by the former and the newly instated captain.
-    - (b) In the case of captains who are removed by the CRC, this option may be activated at will by the former captain.
-  - (3) If a former captain is released in an add/drop period or placed into free agency, their old team may be given call-up priority or other compensation at the CRC's discretion.
 
 #### Section E - Dual Eligible Players (DEPs)
   - (1) By accepting a call-up offer, a player is assigned DEP status by default and would continue playing in both leagues for the remainder of the season.
