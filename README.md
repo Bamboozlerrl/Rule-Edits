@@ -18,7 +18,7 @@
   * [Section F - Talent Evaluation Committee](#section-f---talent-evaluation-committee)
 - [Article III - Drafting](#article-iii---drafting)
   * [Section A - General Draft Information](#section-a---general-draft-information)
-  * [Section B - The Auction Drafts](#section-b---the-auction-draft)
+  * [Section B - The Auction Draft](#section-b---the-auction-draft)
   * [Section C - The Snauction Draft](#section-c---the-snauction-draft)
   * [Section D - The Snake Draft](#section-D---the-snake-draft)
 - [Article IV - Roster Changes](#article-iv---roster-changes)
