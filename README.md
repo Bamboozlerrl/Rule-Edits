@@ -20,7 +20,7 @@
   * [Section A - General Draft Information](#section-a---general-draft-information)
   * [Section B - The Auction Draft](#section-b---the-auction-draft)
   * [Section C - The Snauction Draft](#section-c---the-snauction-draft)
-  * [Section D - The Snake Draft](#section-D---the-snake-draft)
+  * [Section D - The Snake Draft](#section-d---the-snake-draft)
 - [Article IV - Roster Changes](#article-iv---roster-changes)
   * [Section A - Trades](#section-a---trades)
   * [Section B - Drops, Call-ups, Free agency](#section-b---drops-call-ups-free-agency)
