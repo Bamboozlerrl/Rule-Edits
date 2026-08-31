@@ -271,13 +271,47 @@ ___
 ### Article III - Drafting
 
 #### Section A - General Draft Information
-  - (1) Specific draft dates and times will be announced by the CRC prior to the draft.
+  - (1) Specific draft styles, dates and times will be announced by the CRC prior to the drafts.
   - (2) Each league's draft will take place on a different day.
   - (3) Drafts will occur in order from the highest level league (MLTP) to the lowest (NLTP).
   - (4) The MLTP and mLTP drafts will continue until every team's roster is filled.
   - (5) The NLTP draft will continue until all remaining players are assigned to a team.
+  - (6) The CRC has full discretion on which draft style is used for each league, with descriptions of each draft style explained below.
 
-#### Section B - The Snauction Drafts
+#### Section B - The Auction Draft
+  - (1) TagCoins (TC):
+    - (a) There will be three forms of TagCoins, TCM, TCN, and TCA.
+      - (i) TCM = Major league TagCoin.
+      - (ii) TCN = Minor league TagCoin.
+      - (iii) TCA = Novice league TagCoin.
+    - (b) Each team will receive a budget of TC determined by the CRC on the following criteria.
+      - (i) Leagues with GMs and no playing captains or prelim picks:
+        - (1) Each team will receive an equal number of TC no less than 50 and no greater than 200.
+      - (ii) Leagues with playing captains and/or prelim picks:
+        - (1) Each team will receive a budget of TC determined by the CRC on a case-by-case basis.
+          - (aa) Potential budgets will be separated into tiers that each team can be assigned to.
+          - (bb) The tier a team is placed into will be determined by the strength of the first player on the roster (i.e. DPC or prelim pick).
+          - (cc) Each tier may have any number of teams assigned to it including zero teams.
+    - (c) Trades, including those involving TC, are allowed during each draft.
+      - (i) Trades may not be completed that will put a team over their starting budget when considering their roster and remaining TC.
+    - (d) TCM, TCN, and TCA are distinct and may not be exchanged for each other.
+    - (e) Remaining TCM, TCN, and TCA are kept by the team for use in add/drop and free agency periods at the conclusion of each draft, while the value of the coins assigned to players drafted at snauction is also kept.
+    - (f) TC penalties may be applied by the CRC and/or League Manager at their discretion for captains misbehaving, misusing draft tools, or otherwise impeding the flow of the draft.
+    - (g) TC may not be spent to remove a player from a roster and replace them on the draft board.
+  - (2) Nominations:
+    - (a) Captains will be responsible for submitting nominations for their team unless otherwise communicated with the CRC. The CRC reserves the right to decline any non-captain from submitting nominations at their discretion, but will work with captains if they have difficulty finding a replacement.
+    - (b) Nomination order:
+      - (i) For leagues with only GMs, the order will be randomly assigned and snake in reverse order upon completion of each round.
+      - (ii) For leagues with non-equal TC budgets, the order will be determined by the TC budget of each team, where the team with the least amount of TC will go first and will snake in reverse order upon completion of each round. Teams with a tied budget will have the order randomly assigned.
+    - (c) Nomination spots may not be traded.
+    - (d) Nominations will continue until each team has exactly 4 players.
+      - (i) Novice league will transition to a snake draft once each roster contains 4 players.
+    - (e) If a team already has the maximum number of players and they are at the top of the nomination order, their nomination will instead be skipped and continue to the next eligible team.
+    - (f) Nominations have a starting bid. The starting bid is chosen by the nominating team and may be anywhere between 0 TC and that team’s remaining TagCoins.
+      - (i) Players who are nominated for 0 TC and do not receive bids from any other team will be added back to the draft packet unless the nominating team opts to receive the player for 0 TC.
+    - (g) If a team takes more than 30 seconds to nominate a player, a player may be automatically nominated for them at a starting bid of 0 TC. The player will be the top undrafted player on the draft board.
+
+#### Section C - The Snauction Draft
   - (1) TagCoins (TC):
     - (a) There will be three forms of TagCoins, TCM, TCN, and TCA.
       - (i) TCM = Major league TagCoin.
