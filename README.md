@@ -352,7 +352,7 @@ ___
     - (b) The co-captain round will follow the snauction procedure and will conclude once each team has exactly 1 player.
     - (c) Trades, including those involving TC, are permitted between the conclusion of the co-captain round and the start of the remainder of the draft.
 
-#### Section C - The Snake Draft
+#### Section D - The Snake Draft
   - (1) The snake draft will follow the same format for both traditional captaincy and General Manager seasons in Novice league.
     - (a) The snake draft will begin shortly after the conclusion of the Novice league snauction unless otherwise announced by the League Manager or CRC. Usually after a 10-15 minute break.
     - (b) The snake draft order will be determined by the number of remaining TCA of each team, prorated by their initial balance.
