@@ -809,7 +809,7 @@ ___
   - (3) In the Novice league, GMs will substitute players between games equally, to help balance the skill level in each game, when both teams have more than 4 active players for the match.
     - (a) Each team should include the same amount of "starting players" and "bench players" during a game, where possible.
       - (i) Starting players are defined as the 4 players who have played the most minutes during the season at the start of the matchup.
-        - (1) If no games have been played, starting players are defined as the 4 players drafted during the snauction.
+        - (1) If no games have been played, starting players are defined as the first 4 players drafted.
       - (ii) Bench players are defined as the remaining rostered players that aren't included in (i).
       - (iii) Teams are not required to go beyond the minute minimums as defined in [Article VII Section D](#section-d---minute-minimums-and-maximums), regardless of the other team's substitutions.
     - (b) The default rotational games are games 2 and 4, unless otherwise agreed upon by the captains.
