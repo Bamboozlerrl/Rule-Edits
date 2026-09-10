@@ -808,13 +808,16 @@ ___
     - (e) If a player is unable to leave the match, an inactive fifth ball may remain in play, provided it is not in a spot that disrupts play. If the inactive ball is in such a location for an extensive amount of time, the four active players must attempt to move the inactive player to a less disruptive spot. Teams with a fifth inactive ball that disrupts play may be assessed a penalty determined by the CRC.
   - (3) In the Novice league, GMs will substitute players between games equally, to help balance the skill level in each game, when both teams have more than 4 active players for the match.
     - (a) Each team should include the same amount of "starting players" and "bench players" during a game, where possible.
-      - (i) Starting players are defined as the 4 players who have played the most minutes during the season at the start of the matchup.
-        - (1) If no games have been played, starting players are defined as the first 4 players drafted.
+      - (i) Starting players are defined as the 4 players who have played the most minutes per match attended during the season at the start of the match.
+        - (1) Example: Player A has attended 2 out of 4 matches and played 80 minutes for a 40 minute/match average. Player B has attended 4 out of 4 matches and played 90 minutes for a 22.5 minute/match average. Player A would be defined as a starting player over Player B.
+        - (2) If no games have been played, starting players are defined as the first 4 players drafted.
+        - (3) Captains may submit a request to change their starting players to the CRC, along with their reasoning. The CRC may accept or decline at their discretion.
+        - (4) The CRC may ask a captain to redefine their starting players after a trade or free agency period.
       - (ii) Bench players are defined as the remaining rostered players that aren't included in (i).
       - (iii) Teams are not required to go beyond the minute minimums as defined in [Article VII Section D](#section-d---minute-minimums-and-maximums), regardless of the other team's substitutions.
     - (b) The default rotational games are games 2 and 4, unless otherwise agreed upon by the captains.
       - (i) Teams are expected to play all of their bench players in these games, adding starters as needed to fill the team.
-      - (ii) GMs should discuss their player rotation in advance of the matchup if agreeing on anything other than the default.
+      - (ii) GMs should discuss their player rotation in advance of the match if agreeing on anything other than the default.
       - (iii) Bench players can play in all games, not just the default games.
 
 #### Section G - Game Start Time Rules, Forfeits
