@@ -808,7 +808,7 @@ ___
     - (e) If a player is unable to leave the match, an inactive fifth ball may remain in play, provided it is not in a spot that disrupts play. If the inactive ball is in such a location for an extensive amount of time, the four active players must attempt to move the inactive player to a less disruptive spot. Teams with a fifth inactive ball that disrupts play may be assessed a penalty determined by the CRC.
   - (3) In the Novice league, GMs will substitute players between games equally, to help balance the skill level in each game, when both teams have more than 4 active players for the match.
     - (a) Each team should include the same amount of "starting players" and "bench players" during a game, where possible.
-      - (i) Starting players are defined as the 4 players with the highest average minutes per series, with any number of minutes, at the start of the match.
+      - (i) Starting players are defined at the start of each match as the 4 players with the highest average minutes per series with any number of minutes.
         - (1) Example: Player A has attended 2 out of 4 series and played 80 minutes for a 40 minute/series average. Player B has attended 4 out of 4 series and played 90 minutes for a 22.5 minute/series average. Player A would be defined as a starting player over Player B.
         - (2) If no games have been played, starting players are defined as the first 4 players drafted.
         - (3) Captains may submit a request to change their starting players to the CRC, along with their reasoning. The CRC may accept or decline at their discretion.
