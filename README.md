@@ -813,6 +813,8 @@ ___
         - (2) If no games have been played, starting players are defined as the first 4 players drafted.
         - (3) Captains may submit a request to change their starting players to the CRC, along with their reasoning. The CRC may accept or decline at their discretion.
         - (4) The CRC may ask a captain to redefine their starting players after a trade or free agency period.
+          - (aa) Dropped players from the Minor league will be treated as players with maximum minutes. For example, acquiring a Minor league drop after week 3 would give that player 150 minutes and a 50 minute/series average.
+        - (5) Minutes played during a loan to another team will not count towards the series average.
       - (ii) Bench players are defined as the remaining rostered players that aren't included in (i).
       - (iii) Teams are not required to go beyond the minute minimums as defined in [Article VII Section D](#section-d---minute-minimums-and-maximums), regardless of the other team's substitutions.
     - (b) The default rotational games are games 2 and 4, unless otherwise agreed upon by the captains.
