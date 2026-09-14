@@ -809,20 +809,19 @@ ___
     - (d) If a substituting team has more than four active players for an extensive amount of time, the team may be assessed a penalty determined by the CRC.
     - (e) If a player is unable to leave the match, an inactive fifth ball may remain in play, provided it is not in a spot that disrupts play. If the inactive ball is in such a location for an extensive amount of time, the four active players must attempt to move the inactive player to a less disruptive spot. Teams with a fifth inactive ball that disrupts play may be assessed a penalty determined by the CRC.
   - (3) In the Novice league, GMs will substitute players between games equally, to help balance the skill level in each game, when both teams have more than 4 active players for the match.
-    - (a) Each team should include the same amount of "starting players" and "bench players" during a game, where possible.
-      - (i) Starting players are defined at the start of each match as the 4 players with the highest average minutes per series with any number of minutes.
-        - (1) Example: Player A has attended 2 out of 4 series and played 80 minutes for a 40 minute/series average. Player B has attended 4 out of 4 series and played 90 minutes for a 22.5 minute/series average. Player A would be defined as a starting player over Player B.
-        - (2) If no games have been played, starting players are defined as the first 4 players drafted.
+    - (a) There will be two "rotational games" in each five game series.
+      - (i) The default rotational games are 2 and 4, unless otherwise agreed upon by the captains.
+      - (ii) During rotational games, teams will play all of their "bench players", using as few "starting players" as possible.
+    - (b) Definitions:
+      - (i) "Starting players" are defined at the start of each match as the 4 players with the highest average minutes per series with any number of minutes.
+        - (1) Example: Player A has attended 2 out of 4 series and played 80 total minutes, for a 40 minute/series average. Player B has attended 4 out of 4 series and played 90 total minutes, for a 22.5 minute/series average. Player A would be defined as a starting player over Player B.
+        - (2) If no series has been completed, starting players are defined as the first 4 players drafted.
         - (3) Captains may submit a request to change their starting players to the CRC, along with their reasoning. The CRC may accept or decline at their discretion.
         - (4) The CRC may ask a captain to redefine their starting players after a trade or free agency period.
           - (aa) Dropped players from the Minor league will be treated as players with maximum minutes. For example, acquiring a Minor league drop after week 3 would give that player 150 minutes and a 50 minute/series average.
         - (5) Minutes played while on loan to another Novice team will not count towards the series average.
-      - (ii) Bench players are defined as the remaining rostered players that aren't included in (i).
-      - (iii) Teams are not required to go beyond the minute minimums as defined in [Article VII Section D](#section-d---minute-minimums-and-maximums), regardless of the other team's substitutions.
-    - (b) The default rotational games are games 2 and 4, unless otherwise agreed upon by the captains.
-      - (i) Teams are expected to play all of their bench players in these games, adding starters as needed to fill the team.
-      - (ii) GMs should discuss their player rotation in advance of the match if agreeing on anything other than the default.
-      - (iii) Bench players can play in all games, not just the default games.
+      - (ii) "Bench players" are defined as the remaining rostered players that aren't included in (i).
+    - (c) Teams are not required to go beyond the minute minimums as defined in [Article VII Section D](#section-d---minute-minimums-and-maximums), regardless of the other team's substitutions.
 
 #### Section G - Game Start Time Rules, Forfeits
   - (1) Either team may share the group link to the other team whenever they are ready.
