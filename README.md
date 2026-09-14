@@ -639,6 +639,8 @@ ___
     - (b) Minute restrictions will be determined by subtracting the number of weeks a player will miss multipled by 50 from the total number of available minutes in the given season.
       - (i) Ex: If a player is missing 1 week in a 6 week season, they will be given a 250 minute restriction (300-(1x50)).
       - (ii) Minute restrictions are not linked to the specific week(s) a player is missing. If the player's conflict is resolved the restriction will still apply, but their captain may choose to play them and fulfill the restriction by sitting them a different week.
+      - (iii) Games extended beyond 10 minutes by overtime and/or clutch time will still count for 10 minutes.
+      - (iv) Games reduced under 10 minutes by mercy rule will still count for 10 minutes.
   - (2) Scheduling restrictions will not be applied or enforced in the Novice league.
   - (3) Players who indicate that they will miss a majority of playoffs in their signup will have their signup removed.
 
