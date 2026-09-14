@@ -596,7 +596,7 @@ ___
       - (vi) If a player rejects the opportunity to be loaned to a team in a week, they forfeit their right to accept any future loan opportunities for other teams in that league for that same week.
     - (c) Priority
       - (i) Regular season
-        - (1) The first team to the first team to submit the loan form for a player has priority for the upcoming week.
+        - (1) The first team to submit the loan form for a player has priority for the upcoming week.
         - (2) Teams may not contact players for loan opportunities until after midnight ET following the default time of matches from the previous week.
       - (ii) Post-season
         - (1) The team which has loaned a player for the fewest total minutes (including the regular season) will have loan priority for the upcoming week.
