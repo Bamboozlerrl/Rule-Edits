@@ -648,6 +648,7 @@ ___
   - (1) In the Major and Minor leagues, microphone restrictions will be enforced on all players who list that they will not use a microphone to communicate during the season.
     - (a) These restrictions will be communicated to the player and all captains prior to the relevant draft, with the ability to make changes pre-draft.
     - (b) These players must remained muted in their team's voice chat during all league games.
+    - (c) Microphone restrictions will not be enforced for true rookies, defined as players with less than 110 minutes of career competitive TagPro.
   - (2) In Novice league, microphone restrictions are not enforced.
 
 ___
